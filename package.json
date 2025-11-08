@@ -1,0 +1,20 @@
+{
+  "name": "rpa-cnpj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "chrome-launcher": "^1.2.1",
+    "fast-csv": "^5.0.5",
+    "fs": "^0.0.1-security",
+    "puppeteer": "^24.29.1",
+    "puppeteer-core": "^24.29.1"
+  }
+}
