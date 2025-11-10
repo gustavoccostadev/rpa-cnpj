@@ -3,9 +3,8 @@ import fs from "fs";
 import csv from "fast-csv";
 import { Launcher } from "chrome-launcher";
 
-const chromePath = Launcher.getInstallations()[0]; // Pega o primeiro Chrome instalado
+const chromePath = Launcher.getInstallations()[0];
 
-// Função para ler a planilha CSV
 async function lerCSV(caminho) {
   const nomes = [];
   return new Promise((resolve, reject) => {
@@ -17,13 +16,6 @@ async function lerCSV(caminho) {
   });
 }
 
-// Função para escrever o resultado em CSV
-async function escreverCSV(resultados, caminho) {
-  const ws = fs.createWriteStream(caminho);
-  csv.write(resultados, { headers: true }).pipe(ws);
-}
-
-// Função principal da automação
 async function buscarCNPJs() {
   const nomes = await lerCSV("input.csv");
   const resultados = [];
@@ -46,8 +38,6 @@ async function buscarCNPJs() {
       await page.click(
         'input[placeholder="Pesquisar CNPJ, razão social, nome fantasia ou sócio"]'
       );
-      //   await page.click("bits-26");
-      //   await page.waitForSelector("bits-26", { timeout: 10000 });
 
       await page.type(
         'input[placeholder="Pesquisar CNPJ, razão social, nome fantasia ou sócio"]',
@@ -55,10 +45,7 @@ async function buscarCNPJs() {
         { delay: 100 }
       );
 
-      //   await page.keyboard.press("Enter");
-      await new Promise((resolve) => setTimeout(resolve, 2000)); // espera 2 segundo para sugestões carregarem
-
-      //   await page.waitForSelector('input', { timeout: 10000 });
+      await new Promise((resolve) => setTimeout(resolve, 2000));
 
       const resultado = await page.evaluate(() => {
         const texto = document.body.innerText;
@@ -67,18 +54,12 @@ async function buscarCNPJs() {
         let cnpjs = texto.match(cnpjRegex);
 
         if (cnpjs && cnpjs.length > 0) {
-          // 🔹 Remove o CNPJ que sempre aparece
           const cnpjIndesejado = "37.335.118/0001-80";
-          cnpjs = cnpjs.filter(c => !c.includes(cnpjIndesejado));
+          cnpjs = cnpjs.filter((c) => !c.includes(cnpjIndesejado));
 
           if (cnpjs.length > 0) {
             return `CNPJs encontrados: ${cnpjs.join(", ")}`;
           }
-        }
-
-        // // procura palavras-chave indicando empresa
-        if (texto.match(/empresa|razão social|CNPJ/i)) {
-          return "Possível empresa encontrada no resultado.";
         }
 
         return null;
@@ -105,5 +86,9 @@ async function buscarCNPJs() {
   console.log("✅ Busca finalizada. Resultados salvos em output.csv");
 }
 
-// Executar
+async function escreverCSV(resultados, caminho) {
+  const ws = fs.createWriteStream(caminho);
+  csv.write(resultados, { headers: true }).pipe(ws);
+}
+
 buscarCNPJs();
