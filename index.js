@@ -16,6 +16,10 @@ async function lerCSV(caminho) {
   });
 }
 
+async function delay(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
 async function buscarCNPJs() {
   const nomes = await lerCSV("input.csv");
   const resultados = [];
@@ -23,17 +27,20 @@ async function buscarCNPJs() {
   const browser = await puppeteer.launch({
     headless: false,
     executablePath: chromePath,
+    protocolTimeout: 180000,
   });
   const page = await browser.newPage();
+
+  let contador = 0;
 
   for (const nome of nomes) {
     console.log(`Pesquisando: ${nome}`);
 
-    let nomeEmpresa = "";
-    let cnpjCerto = "";
+    let nomeEmpresa = "Nao encontrado";
+    let cnpjCerto = "Nao encontrado";
     let cnpjTexto = "";
     let cnpjRegex;
-    let cnae = "";
+    let cnae = "Nao encontrado";
 
     try {
       await page.goto("https://cnpja.com");
@@ -51,7 +58,7 @@ async function buscarCNPJs() {
         { delay: 100 }
       );
 
-      await new Promise((resolve) => setTimeout(resolve, 2000));
+      await new Promise((resolve) => setTimeout(resolve, 5000));
 
       const sugestoesEmpresa = await page.$$eval(
         ' div[data-value="estabelecimentos"] div[role="group"] span.font-medium',
@@ -79,19 +86,12 @@ async function buscarCNPJs() {
 
         nomeEmpresa = await page.$eval("h3", (el) => el.innerText.trim());
 
-        cnpjTexto = await page.$eval("li > span", (el) =>
-          el.innerText.trim()
-        );
+        cnpjTexto = await page.$eval("li > span", (el) => el.innerText.trim());
         cnpjRegex = /\d{2}\.\d{3}\.\d{3}\/\d{4}-\d{2}/g;
-        cnpjCerto =
-          cnpjTexto.match(cnpjRegex)?.[0] || "CNPJ não encontrado";
+        cnpjCerto = cnpjTexto.match(cnpjRegex)?.[0] || "CNPJ não encontrado";
 
-        cnae = await page.$eval("tr > td > a ", (el) =>
-          el.innerText.trim()
-        );
+        cnae = await page.$eval("tr > td > a ", (el) => el.innerText.trim());
       } else {
-        console.log(" Nenhuma empresa com nome encontrado nas sugestões.");
-
         const sugestoesPessoa = await page.$$eval(
           ' div[data-value="sócios e administradores"] div[role="group"] span.font-medium',
           (items) => items.map((el) => el.innerText.trim())
