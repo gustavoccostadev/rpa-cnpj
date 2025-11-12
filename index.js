@@ -27,7 +27,13 @@ async function buscarCNPJs() {
   const page = await browser.newPage();
 
   for (const nome of nomes) {
-    console.log(` Pesquisando: ${nome}`);
+    console.log(`Pesquisando: ${nome}`);
+
+    let nomeEmpresa = "";
+    let cnpjCerto = "";
+    let cnpjTexto = "";
+    let cnpjRegex;
+    let cnae = "";
 
     try {
       await page.goto("https://cnpja.com");
@@ -68,10 +74,23 @@ async function buscarCNPJs() {
             alvo.click();
           }
         }, sugestaoCorretaEmpresa);
-      } else {
-        console.log(
-          " Nenhuma empresa com nome completo encontrada nas sugestões."
+
+        await new Promise((resolve) => setTimeout(resolve, 1500));
+
+        nomeEmpresa = await page.$eval("h3", (el) => el.innerText.trim());
+
+        cnpjTexto = await page.$eval("li > span", (el) =>
+          el.innerText.trim()
         );
+        cnpjRegex = /\d{2}\.\d{3}\.\d{3}\/\d{4}-\d{2}/g;
+        cnpjCerto =
+          cnpjTexto.match(cnpjRegex)?.[0] || "CNPJ não encontrado";
+
+        cnae = await page.$eval("tr > td > a ", (el) =>
+          el.innerText.trim()
+        );
+      } else {
+        console.log(" Nenhuma empresa com nome encontrado nas sugestões.");
 
         const sugestoesPessoa = await page.$$eval(
           ' div[data-value="sócios e administradores"] div[role="group"] span.font-medium',
@@ -100,20 +119,6 @@ async function buscarCNPJs() {
           );
         }
       }
-      await new Promise((resolve) => setTimeout(resolve, 1500));
-
-      const nomeEmpresa = await page.$eval("h3", (el) => el.innerText.trim());
-
-      const cnpjTexto = await page.$eval("li > span", (el) =>
-        el.innerText.trim()
-      );
-      const cnpjRegex = /\d{2}\.\d{3}\.\d{3}\/\d{4}-\d{2}/g;
-      const cnpjCerto =
-        cnpjTexto.match(cnpjRegex)?.[0] || "CNPJ não encontrado";
-
-      const cnae = await page.$eval("tr > td > a ", (el) =>
-        el.innerText.trim()
-      );
 
       console.log(`Empresa: ${nomeEmpresa}`);
       console.log(`CNPJ: ${cnpjCerto}`);
