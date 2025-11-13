@@ -1,118 +1,1045 @@
 nome,resultado,status
-ADRIAN ROBERTO DE CAMPOS VIALE,"Empresa: , CNPJ: , CNAE: ",Encontrado
-ADRIANA CRISTINA DA CRUZ PACHECO,"Empresa: , CNPJ: , CNAE: ",Encontrado
+ADRIAN ROBERTO DE CAMPOS VIALE,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ADRIANA CRISTINA DA CRUZ PACHECO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
 ADRIANA DA SILVA DOMINGOS,"Empresa: ADRIANA DA SILVA DOMINGOS, CNPJ: 30.169.755/0001-85, CNAE: 4781-4/00",Encontrado
-ADRIANA DEPERON GARRO,Erro na busca,Erro
-ADRIANA MARTINS DAVID,"Empresa: , CNPJ: , CNAE: ",Encontrado
-ADRIANA PAIVA DO AMARAL MOREIRA,"Empresa: , CNPJ: , CNAE: ",Encontrado
+ADRIANA DEPERON GARRO,"Empresa: 50.045.530 ADRIANA DEPERON GARRO, CNPJ: 50.045.530/0001-24, CNAE: 7319-0/02",Encontrado
+ADRIANA MARTINS DAVID,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ADRIANA PAIVA DO AMARAL MOREIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
 ADRIANE MASSAMBANI,"Empresa: 50.811.176 ADRIANE MASSAMBANI, CNPJ: 50.811.176/0001-00, CNAE: 4781-4/00",Encontrado
 ADRIELLE CAMPOS ALEXANDRINO,"Empresa: 57.500.467 ADRIELLE CAMPOS ALEXANDRINO, CNPJ: 57.500.467/0001-18, CNAE: 5912-0/99",Encontrado
 ADRIELLE NASCIMENTO DE PAULA,"Empresa: ADRIELLE NASCIMENTO DE PAULA, CNPJ: 20.162.675/0001-44, CNAE: 4782-2/01",Encontrado
-ADRIELY CUNHA AGUIAR,"Empresa: , CNPJ: , CNAE: ",Encontrado
-AGATHA KAUANY SANTOS DE LIRA,"Empresa: , CNPJ: , CNAE: ",Encontrado
-AGATHA VITORIA CROCHIQUE DA SILVA,"Empresa: , CNPJ: , CNAE: ",Encontrado
-AILTON RICARDO SOUZA DA SILVA,"Empresa: , CNPJ: , CNAE: ",Encontrado
+ADRIELY CUNHA AGUIAR,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+AGATHA KAUANY SANTOS DE LIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+AGATHA VITORIA CROCHIQUE DA SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+AILTON RICARDO SOUZA DA SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
 ALANA FARIAS DE JESUS MENEZES,"Empresa: 55.220.238 ALANA FARIAS DE JESUS MENEZES, CNPJ: 55.220.238/0001-14, CNAE: 8599-6/04",Encontrado
-ALANA ISABELLY BARTHMAN DOS SANTOS,"Empresa: , CNPJ: , CNAE: ",Encontrado
+ALANA ISABELLY BARTHMAN DOS SANTOS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
 ALANA LOPES ROSA,"Empresa: ALANA LOPES ROSA, CNPJ: 47.354.761/0001-05, CNAE: 4729-6/99",Encontrado
-ALANA MORETI BERGAMASCO,"Empresa: , CNPJ: , CNAE: ",Encontrado
+ALANA MORETI BERGAMASCO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
 ALANE RODRIGUES DE SOUZA PEDROSO,"Empresa: 39.453.819 ALANE RODRIGUES DE SOUZA PEDROSO, CNPJ: 39.453.819/0001-40, CNAE: 7319-0/02",Encontrado
-ALANNA MILANO MENOSSI,"Empresa: , CNPJ: , CNAE: ",Encontrado
-ALESSANDRA KAROLYNE DA CRUZ MOREIRA,"Empresa: , CNPJ: , CNAE: ",Encontrado
-ALESSANDRA PIMENTEL DO NASCIMENTO,"Empresa: , CNPJ: , CNAE: ",Encontrado
-ALESSANDRA SANTOS CANUTO DA SILVA,"Empresa: , CNPJ: , CNAE: ",Encontrado
-ALESSANDRA SILVA SANTOS,"Empresa: , CNPJ: , CNAE: ",Encontrado
-ALESSANDRO COSTA PAIVA DE JESUS,"Empresa: , CNPJ: , CNAE: ",Encontrado
+ALANNA MILANO MENOSSI,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ALESSANDRA KAROLYNE DA CRUZ MOREIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ALESSANDRA PIMENTEL DO NASCIMENTO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ALESSANDRA SANTOS CANUTO DA SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ALESSANDRA SILVA SANTOS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ALESSANDRO COSTA PAIVA DE JESUS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
 ALEX DE SOUSA MENDES,"Empresa: 57.757.159 ALEX DE SOUSA MENDES BARROS, CNPJ: 57.757.159/0001-72, CNAE: 5320-2/02",Encontrado
-ALEX ROSA FERREIRA JUNIOR,"Empresa: , CNPJ: , CNAE: ",Encontrado
+ALEX ROSA FERREIRA JUNIOR,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
 ALEXANDRA PEREZ DE AQUINO,"Empresa: 52.788.308 ALEXANDRA PEREZ DE AQUINO, CNPJ: 52.788.308/0001-47, CNAE: 7319-0/02",Encontrado
-ALICE FERNANDES LEITE,"Empresa: , CNPJ: , CNAE: ",Encontrado
-ALICE LAURENTINO DA SILVA FREIRE SOARES,"Empresa: , CNPJ: , CNAE: ",Encontrado
-ALICIA MARIA SALES ARAGAO,"Empresa: , CNPJ: , CNAE: ",Encontrado
-ALICIA RAFAELLE DE FREITAS,"Empresa: , CNPJ: , CNAE: ",Encontrado
+ALICE FERNANDES LEITE,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ALICE LAURENTINO DA SILVA FREIRE SOARES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ALICIA MARIA SALES ARAGAO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ALICIA RAFAELLE DE FREITAS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
 ALINE CRISTINA DA SILVA,"Empresa: ALINE CRISTINA DA SILVA, CNPJ: 28.975.645/0001-69, CNAE: 8219-9/99",Encontrado
-ALINE DE ALMEIDA ALEXANDRINO,"Empresa: , CNPJ: , CNAE: ",Encontrado
-ALINE DE OLIVEIRA ISAIAS,"Empresa: , CNPJ: , CNAE: ",Encontrado
+ALINE DE ALMEIDA ALEXANDRINO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ALINE DE OLIVEIRA ISAIAS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
 ALINE FERNANDA RODRIGUES DA SILVA,"Empresa: ALINE FERNANDA RODRIGUES DA SILVA, CNPJ: 44.423.164/0001-05, CNAE: 1813-0/99",Encontrado
 ALINE GONCALVES DA SILVA,"Empresa: 52.255.086 ALINE GONCALVES DA SILVA, CNPJ: 52.255.086/0001-05, CNAE: 8712-3/00",Encontrado
-ALINE IKEGAME CALDEIRA,"Empresa: , CNPJ: , CNAE: ",Encontrado
-ALINE VITORIA SILVA MASTROPASQUA,"Empresa: , CNPJ: , CNAE: ",Encontrado
-ALISON DOS SANTOS PORCIUNCULA,"Empresa: , CNPJ: , CNAE: ",Encontrado
-ALLAN BRUNO LEMES RODRIGUES,"Empresa: , CNPJ: , CNAE: ",Encontrado
-ALLAN DE SOUZA COSTA BARROS,"Empresa: , CNPJ: , CNAE: ",Encontrado
-AMANDA ALMEIDA DA SILVA,"Empresa: , CNPJ: , CNAE: ",Encontrado
-AMANDA APOLINARIO SILVA VICENTINI,"Empresa: , CNPJ: , CNAE: ",Encontrado
-AMANDA BERNARDES RODA,"Empresa: , CNPJ: , CNAE: ",Encontrado
+ALINE IKEGAME CALDEIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ALINE VITORIA SILVA MASTROPASQUA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ALISON DOS SANTOS PORCIUNCULA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ALLAN BRUNO LEMES RODRIGUES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ALLAN DE SOUZA COSTA BARROS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+AMANDA ALMEIDA DA SILVA,"Empresa: AMANDA ALMEIDA DA SILVA, CNPJ: 10.747.602/0001-60, CNAE: 9602-5/02",Encontrado
+AMANDA APOLINARIO SILVA VICENTINI,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+AMANDA BERNARDES RODA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
 AMANDA BESERRA MARTINS,"Empresa: 53.174.088 AMANDA BESERRA MARTINS, CNPJ: 53.174.088/0001-24, CNAE: 1413-4/03",Encontrado
-AMANDA BRESSA SILVA,"Empresa: , CNPJ: , CNAE: ",Encontrado
-AMANDA DE OLIVEIRA CLARO,"Empresa: , CNPJ: , CNAE: ",Encontrado
+AMANDA BRESSA SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+AMANDA DE OLIVEIRA CLARO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
 AMANDA DE OLIVEIRA SANDRINI,"Empresa: AMANDA DE OLIVEIRA SANDRINI, CNPJ: 45.180.463/0001-10, CNAE: 8599-6/99",Encontrado
-AMANDA DUARTE ROVERE,"Empresa: , CNPJ: , CNAE: ",Encontrado
+AMANDA DUARTE ROVERE,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
 AMANDA FERREIRA DE SOUZA,"Empresa: AMANDA FERREIRA DE SOUZA LTDA, CNPJ: 37.561.890/0001-10, CNAE: 4722-9/01",Encontrado
-AMANDA KAWANNY DA SILVA MACIEL,"Empresa: , CNPJ: , CNAE: ",Encontrado
+AMANDA KAWANNY DA SILVA MACIEL,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
 AMAURI ARIAS SILVA,"Empresa: AMAURI ARIAS SILVA, CNPJ: 38.244.164/0001-37, CNAE: 8219-9/99",Encontrado
-ANA BEATRIZ DE SOUSA SOARES VIEIRA,"Empresa: , CNPJ: , CNAE: ",Encontrado
-ANA BEATRIZ FREIXO SEGGES ARAUJO,"Empresa: , CNPJ: , CNAE: ",Encontrado
-ANA BEATRIZ SANTANA CAPDEVILE,"Empresa: , CNPJ: , CNAE: ",Encontrado
+ANA BEATRIZ DE SOUSA SOARES VIEIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ANA BEATRIZ FREIXO SEGGES ARAUJO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ANA BEATRIZ SANTANA CAPDEVILE,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
 ANA CAROLINA DE LUCCA,"Empresa: ANA CAROLINA DE LUCCA, CNPJ: 12.675.322/0001-10, CNAE: 1813-0/99",Encontrado
-ANA CAROLINA DE OLIVEIRA SILVA,"Empresa: , CNPJ: , CNAE: ",Encontrado
-ANA CAROLINA DOS SANTOS,Erro na busca,Erro
-ANA CAROLINA KERGES LOPES,"Empresa: , CNPJ: , CNAE: ",Encontrado
-ANA CAROLINA MENEGONI PIRES,"Empresa: , CNPJ: , CNAE: ",Encontrado
-ANA CAROLINA NOVAES NEVES,"Empresa: , CNPJ: , CNAE: ",Encontrado
+ANA CAROLINA DE OLIVEIRA SILVA,"Empresa: ANA CAROLINA DE OLIVEIRA SILVA, CNPJ: 61.916.183/0001-84, CNAE: 8650-0/06",Encontrado
+ANA CAROLINA DOS SANTOS,"Empresa: ANA CAROLINA DOS SANTOS LTDA, CNPJ: 58.920.296/0001-49, CNAE: 8630-5/99",Encontrado
+ANA CAROLINA KERGES LOPES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ANA CAROLINA MENEGONI PIRES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ANA CAROLINA NOVAES NEVES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
 ANA CAROLINA SORRENTINO SANT ANNA,"Empresa: ANA CAROLINA SORRENTINO SANT ANNA, CNPJ: 32.724.931/0001-29, CNAE: 4752-1/00",Encontrado
-ANA CAROLINA SOUZA DA COSTA,"Empresa: , CNPJ: , CNAE: ",Encontrado
-ANA CAROLINE MACEDO DA SILVA,"Empresa: , CNPJ: , CNAE: ",Encontrado
-ANA CAROLINE MAGALHAES RODRIGUES,"Empresa: , CNPJ: , CNAE: ",Encontrado
+ANA CAROLINA SOUZA DA COSTA,"Empresa: ANA CAROLINA SOUZA DA COSTA, CNPJ: 33.313.250/0001-30, CNAE: 1096-1/00",Encontrado
+ANA CAROLINE MACEDO DA SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ANA CAROLINE MAGALHAES RODRIGUES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
 ANA CAROLINE PERES TEIXEIRA,"Empresa: ANA CAROLINE PERES TEIXEIRA, CNPJ: 47.706.604/0001-11, CNAE: 7319-0/02",Encontrado
 ANA CAROLINE SANCHEZ,"Empresa: ANA CAROLINE SANCHEZ, CNPJ: 31.535.091/0001-93, CNAE: 4789-0/99",Encontrado
 ANA CLARA DE SOUZA MARTINS,"Empresa: 61.148.154 ANA CLARA DE SOUZA MARTINS, CNPJ: 61.148.154/0001-10, CNAE: 9602-5/01",Encontrado
-ANA CLAUDIA BOA,"Empresa: , CNPJ: , CNAE: ",Encontrado
-ANA GABRIELI JORDAO DA SILVA,"Empresa: , CNPJ: , CNAE: ",Encontrado
+ANA CLAUDIA BOA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ANA GABRIELI JORDAO DA SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
 ANA GIULIA GOMES,"Empresa: 58.851.834 ANA GIULIA GOMES, CNPJ: 58.851.834/0001-90, CNAE: 9602-5/01",Encontrado
-ANA IZABELLA ANTUNES PEREIRA,"Empresa: , CNPJ: , CNAE: ",Encontrado
-ANA JULIA BAPTISTA MAXIMO,"Empresa: , CNPJ: , CNAE: ",Encontrado
-ANA JULIA CAMILO DA TRINDADE,"Empresa: , CNPJ: , CNAE: ",Encontrado
-ANA JULIA GOMES ROCHA,"Empresa: , CNPJ: , CNAE: ",Encontrado
+ANA IZABELLA ANTUNES PEREIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ANA JULIA BAPTISTA MAXIMO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ANA JULIA CAMILO DA TRINDADE,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ANA JULIA GOMES ROCHA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
 ANA LAURA CORREA,"Empresa: 54.858.467 ANA LAURA CORREA MORAES, CNPJ: 54.858.467/0001-04, CNAE: 1091-1/02",Encontrado
 ANA LAURA DE ALMEIDA,"Empresa: ANA LAURA DE ALMEIDA, CNPJ: 61.078.014/0001-12, CNAE: 4751-2/01",Encontrado
-ANA LAURA ROCHA DOS SANTOS RODRIGUES,"Empresa: , CNPJ: , CNAE: ",Encontrado
+ANA LAURA ROCHA DOS SANTOS RODRIGUES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
 ANA MONAYZA LIMA MESQUITA,"Empresa: 53.697.329 ANA MONAYZA LIMA MESQUITA, CNPJ: 53.697.329/0001-10, CNAE: 4713-0/02",Encontrado
 ANA PAULA DOS REIS,"Empresa: ANA PAULA DOS REIS, CNPJ: 32.906.546/0001-00, CNAE: 9602-5/01",Encontrado
-ANA PAULA FEMINA,"Empresa: , CNPJ: , CNAE: ",Encontrado
+ANA PAULA FEMINA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
 ANA PAULA FONTES DE SOUZA DELAROZE,"Empresa: 53.764.550 ANA PAULA FONTES DE SOUZA DELAROZE, CNPJ: 53.764.550/0001-43, CNAE: 9700-5/00",Encontrado
 ANA PAULA MENDES DOS SANTOS,Erro na busca,Erro
-ANA PAULA PENGA RITS,"Empresa: , CNPJ: , CNAE: ",Encontrado
-ANA ROBERTA LOPES MAZZINI,"Empresa: , CNPJ: , CNAE: ",Encontrado
-ANALY RIBEIRO SILVA VENANCIO,"Empresa: , CNPJ: , CNAE: ",Encontrado
+ANA PAULA PENGA RITS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ANA ROBERTA LOPES MAZZINI,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ANALY RIBEIRO SILVA VENANCIO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
 ANDRE FERNANDES DA SILVA,"Empresa: ANDRE FERNANDES DA SILVA, CNPJ: 31.510.149/0001-44, CNAE: 4744-0/99",Encontrado
 ANDRE FERREIRA SANTOS,"Empresa: ANDRE FERREIRA SANTOS, CNPJ: 40.262.192/0001-29, CNAE: 9313-1/00",Encontrado
 ANDRE TEIXEIRA RODRIGUES,"Empresa: 59.213.098 ANDRE TEIXEIRA RODRIGUES, CNPJ: 59.213.098/0001-08, CNAE: 8219-9/99",Encontrado
-ANDREA CRISTINA BORTOLUCCI,"Empresa: , CNPJ: , CNAE: ",Encontrado
+ANDREA CRISTINA BORTOLUCCI,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
 ANDREA CRISTINA DOS SANTOS,"Empresa: ANDREA CRISTINA DOS SANTOS, CNPJ: 37.204.156/0001-02, CNAE: 8599-6/03",Encontrado
-ANDREA SANTOS ALMEIDA,Erro na busca,Erro
+ANDREA SANTOS ALMEIDA,"Empresa: 51.505.041 ANDREA SANTOS ALMEIDA, CNPJ: 51.505.041/0001-70, CNAE: 9602-5/02",Encontrado
 ANDRESSA APARECIDA BORGES,Erro na busca,Erro
-ANDRESSA CARDOSO RODRIGUES DA CONCEICAO,"Empresa: , CNPJ: , CNAE: ",Encontrado
-ANDRESSA FERNANDA DA SILVA MONCALVO,"Empresa: , CNPJ: , CNAE: ",Encontrado
-ANDRESSA MOTTA CRUZ,"Empresa: , CNPJ: , CNAE: ",Encontrado
+ANDRESSA CARDOSO RODRIGUES DA CONCEICAO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ANDRESSA FERNANDA DA SILVA MONCALVO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ANDRESSA MOTTA CRUZ,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
 ANGELA DE OLIVEIRA MARQUES DA SILVA,"Empresa: ANGELA DE OLIVEIRA MARQUES DA SILVA, CNPJ: 46.100.243/0001-00, CNAE: 7319-0/02",Encontrado
-ANGELA MARIA SANTOS DA SILVA,"Empresa: , CNPJ: , CNAE: ",Encontrado
-ANIELE PEREIRA DE LIMA,"Empresa: , CNPJ: , CNAE: ",Encontrado
-ANIELLI KAROL MENDES DE BRITO,"Empresa: , CNPJ: , CNAE: ",Encontrado
-ANIELLI MARQUES CAVALCANTE,"Empresa: , CNPJ: , CNAE: ",Encontrado
-ANNA BEATHRIZ CAVATON NICOMEDES,"Empresa: , CNPJ: , CNAE: ",Encontrado
-ANNA CAROLINA ROGER FERREIRA,"Empresa: , CNPJ: , CNAE: ",Encontrado
-ANNA CLARA LIMA CORDEIRO,"Empresa: , CNPJ: , CNAE: ",Encontrado
-ANNA CLAUDIA SORIANO,"Empresa: , CNPJ: , CNAE: ",Encontrado
-ANNA GIULIA LOURENCO DE ANDRADE,Erro na busca,Erro
-ANNA HELLEN BUENO SANTOS,Erro na busca,Erro
-ANNA JULIA VITORIA DE ANDRADE LOPES,Erro na busca,Erro
-ANNA KAROLINE OLIVEIRA CAMPAGNOL,Erro na busca,Erro
-ANY CAROLINY DE FARIAS SILVA,Erro na busca,Erro
-APARECIDA TERUKO TAKAZONO,"Empresa: , CNPJ: , CNAE: ",Encontrado
+ANGELA MARIA SANTOS DA SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ANIELE PEREIRA DE LIMA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ANIELLI KAROL MENDES DE BRITO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ANIELLI MARQUES CAVALCANTE,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ANNA BEATHRIZ CAVATON NICOMEDES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ANNA CAROLINA ROGER FERREIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ANNA CLARA LIMA CORDEIRO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ANNA CLAUDIA SORIANO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ANNA GIULIA LOURENCO DE ANDRADE,"Empresa: 57.749.958 ANNA GIULIA LOURENCO DE ANDRADE, CNPJ: 57.749.958/0001-05, CNAE: 7319-0/02",Encontrado
+ANNA HELLEN BUENO SANTOS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ANNA JULIA VITORIA DE ANDRADE LOPES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ANNA KAROLINE OLIVEIRA CAMPAGNOL,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ANY CAROLINY DE FARIAS SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+APARECIDA TERUKO TAKAZONO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
 ARIANE ARROYO TOMAZ,"Empresa: 57.877.572 ARIANE ARROYO TOMAZ, CNPJ: 57.877.572/0001-70, CNAE: 8219-9/99",Encontrado
-ARIANE CRISTINA CAMPOMIZZO RIZZATTO,Erro na busca,Erro
-ARIANE DA COSTA SANTOS,Erro na busca,Erro
-ASHLEY ALANIS GONCALVES SANTANA,Erro na busca,Erro
-AUREA DE LOURDES RIBEIRO RAMOS BUENO,Erro na busca,Erro
-AXEL CHRISTIAN DE SANTANA VIEIRA,Erro na busca,Erro
+ARIANE CRISTINA CAMPOMIZZO RIZZATTO,"Empresa: 62.857.707 ARIANE CRISTINA CAMPOMIZZO RIZZATTO, CNPJ: 62.857.707/0001-76, CNAE: 8219-9/99",Encontrado
+ARIANE DA COSTA SANTOS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ASHLEY ALANIS GONCALVES SANTANA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+AUREA DE LOURDES RIBEIRO RAMOS BUENO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+AXEL CHRISTIAN DE SANTANA VIEIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+BARBARA BRUNA JACQUELINE SILVA,Erro na busca,Erro
+BARBARA CAMILLY GOMES BRUNETE,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+BARBARA HELENA MONDINI DA ANUNCIACAO,"Empresa: BARBARA HELENA MONDINI DA ANUNCIACAO, CNPJ: 23.511.205/0001-37, CNAE: 4723-7/00",Encontrado
+BARBARA LUCIA ZANI LEFORTE,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+BEATRIZ APARECIDA DA SILVA OLIVEIRA,"Empresa: BEATRIZ APARECIDA DA SILVA OLIVEIRA, CNPJ: 43.271.309/0001-29, CNAE: 4781-4/00",Encontrado
+BEATRIZ BRANDINO,"Empresa: 60.458.267 ANA BEATRIZ BRANDINO TORRES, CNPJ: 60.458.267/0001-59, CNAE: 9602-5/02",Encontrado
+BEATRIZ CONCEICAO DA SILVA E SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+BEATRIZ DE ANDRADE ARAUJO,"Empresa: 60.981.716 PAULA BEATRIZ DE ANDRADE ARAUJO, CNPJ: 60.981.716/0001-49, CNAE: 8219-9/99",Encontrado
+BEATRIZ FERNANDA SILVA PARANGABA,"Empresa: BEATRIZ FERNANDA SILVA PARANGABA, CNPJ: 38.259.700/0001-78, CNAE: 8219-9/99",Encontrado
+BEATRIZ GOMES DA SILVA,"Empresa: BEATRIZ GOMES DA SILVA, CNPJ: 29.887.994/0001-91, CNAE: 9602-5/02",Encontrado
+BEATRIZ MARIANA CAMILLO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+BEATRIZ MENDES DOS ANJOS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+BEATRIZ MILENI SCOMPARIM,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+BEATRIZ RIBEIRO DE CARVALHO,"Empresa: 30.943.436 LILIAN BEATRIZ RIBEIRO DE CARVALHO, CNPJ: 30.943.436/0001-85, CNAE: 4751-2/01",Encontrado
+BEATRIZ RODRIGUES GUARINAO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+BEATRYZ RIBEIRO DOS PRAZERES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+BERENICE GONCALVES DIAS MACEDO,"Empresa: BERENICE GONCALVES DIAS MACEDO, CNPJ: 47.536.200/0001-27, CNAE: 9001-9/02",Encontrado
+BIANCA APARECIDA DE SOUZA,"Empresa: 62.889.336 BIANCA APARECIDA DE SOUZA, CNPJ: 62.889.336/0001-04, CNAE: 8219-9/99",Encontrado
+BIANCA BARROS IZIDORO,"Empresa: ELEICAO 2020 BIANCA BARROS IZIDORO VEREADOR, CNPJ: 39.068.951/0001-38, CNAE: 9492-8/00",Encontrado
+BIANCA CRISTINA JANUARIO GOMES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+BIANCA VITORIA CAVALCANTE MAGALHAES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+BIANCA WILLEMEN ALEXANDRE,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+BIANKA DE SOUZA OLIVIER CELESTINO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+BRENDA CAROLINE DE OLIVEIRA RICCI,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+BRENDA LEIDIELY DA SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+BRENO BARBOSA VILLACA RIBEIRO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+BRUNA CAROLINA GENEROSO POSSOLY,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+BRUNA CAROLINE AGUIAR NARDI,"Empresa: BRUNA CAROLINE AGUIAR NARDI, CNPJ: 29.609.577/0001-87, CNAE: 3299-0/99",Encontrado
+BRUNA CAROLINE BISPO DE SA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+BRUNA DA SILVA OLIVEIRA,"Empresa: BRUNA DA SILVA OLIVEIRA, CNPJ: 46.726.328/0001-90, CNAE: 0151-2/02",Encontrado
+BRUNA FLAVIA GONCALVES SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+BRUNA INACIO FERREIRA,"Empresa: 35.331.129 BRUNA INACIO FERREIRA BARBOSA, CNPJ: 35.331.129/0001-67, CNAE: 1821-1/00",Encontrado
+BRUNA LEME DE ARAUJO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+BRUNA MAROSTICA,"Empresa: BRUNA MAROSTICA, CNPJ: 26.941.916/0001-30, CNAE: 8650-0/03",Encontrado
+BRUNA MILENE SOBRADIEL DE CASTRO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+BRUNA RODRIGUES DA SILVA,"Empresa: BRUNA RODRIGUES DA SILVA, CNPJ: 19.331.260/0001-78, CNAE: 8599-6/99",Encontrado
+BRUNA SABINO BORGES,"Empresa: BRUNA SABINO BORGES, CNPJ: 36.129.919/0001-27, CNAE: 4723-7/00",Encontrado
+BRUNO CESAR PELISSARI DA SILVA,"Empresa: BRUNO CESAR PELISSARI DA SILVA, CNPJ: 44.528.568/0001-55, CNAE: 5611-2/05",Encontrado
+BRUNO DUARTE SOUZA DE ABREU,"Empresa: 51.444.738 BRUNO DUARTE SOUZA DE ABREU, CNPJ: 51.444.738/0001-89, CNAE: 5620-1/04",Encontrado
+BRUNO GARDIN CAVALCANTI,"Empresa: 61.987.118 BRUNO GARDIN CAVALCANTI, CNPJ: 61.987.118/0001-40, CNAE: 9512-6/00",Encontrado
+BRUNO HENRIQUE DE ALMEIDA MORAES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+BRUNO SILVA RODRIGUES,Erro na busca,Erro
+CAMILA ALMEIDA DE OLIVEIRA,"Empresa: 51.720.196 CAMILA ALMEIDA DE OLIVEIRA, CNPJ: 51.720.196/0001-20, CNAE: 7420-0/01",Encontrado
+CAMILA APARECIDA MACIEL CHAGAS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+CAMILA DA SILVA FERREIRA,"Empresa: CAMILA DA SILVA FERREIRA, CNPJ: 57.278.851/0001-18, CNAE: 4753-9/00",Encontrado
+CAMILA FRANCA AMADOR,"Empresa: 61.204.596 CAMILA FRANCA AMADOR, CNPJ: 61.204.596/0001-36, CNAE: 7319-0/02",Encontrado
+CAMILA KELLY DIAS DA SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+CAMILE VITORIA GERMANO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+CAMILLA FERREIRA CARDOSO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+CAMILLY VICTORIA DE SA GADA MUNHOZ,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+CAMILLY VICTORIA RAMOS CANTEIRO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+CAMILY VITORIA PAULINO DOS ANJOS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+CARLA CRISTINA OI MESQUITA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+CARLA DA SILVA VALADARES,"Empresa: CARLA DA SILVA VALADARES, CNPJ: 39.148.373/0001-40, CNAE: 4781-4/00",Encontrado
+CARLA MICHELE SOARES VIEIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+CARLA VANESSA DE OLIVEIRA,"Empresa: CARLA VANESSA DE OLIVEIRA TREINAMENTO, CNPJ: 37.013.383/0001-42, CNAE: 8599-6/04",Encontrado
+CARLOS AUGUSTO SANTOS CRISTOVAO PARAISO,"Empresa: CARLOS AUGUSTO SANTOS CRISTOVAO PARAISO, CNPJ: 46.022.056/0001-48, CNAE: 7319-0/02",Encontrado
+CARLOS CESAR GUARINAO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+CARLOS EDUARDO DOS SANTOS POPPOLINO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+CARLOS HENRIQUE GALBIATTE CANETE,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+CARLOS MAGNO DOS SANTOS REIS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+CAROLINA AYKO PAIAO TURUTA,"Empresa: 62.427.375 CAROLINA AYKO PAIAO TURUTA, CNPJ: 62.427.375/0001-90, CNAE: 8219-9/99",Encontrado
+CAROLINA DE GOES LIMA SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+CAROLINE ANDRADE,"Empresa: CAROLINE ANDRADE DE OLIVEIRA, CNPJ: 39.760.660/0001-06, CNAE: 8230-0/01",Encontrado
+CAROLINE APARECIDA PARANA APOLINARIO PEREIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+CAROLINE BARBOSA DOS SANTOS,"Empresa: 41.936.122 CAROLINE BARBOSA DOS SANTOS, CNPJ: 41.936.122/0001-71, CNAE: 4520-0/01",Encontrado
+CAROLINE CAMARGO SANTOS,"Empresa: NATHALIA CAROLINE CAMARGO SANTOS, CNPJ: 38.612.282/0001-50, CNAE: 9602-5/01",Encontrado
+CAROLINE CRISTINA DOS SANTOS MIRANDA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+CAROLINE DE MORAES SANTOS,"Empresa: CAROLINE DE MORAES SANTOS LIMA, CNPJ: 34.856.480/0001-09, CNAE: 8230-0/01",Encontrado
+CAROLINE DE SOUZA SA,"Empresa: 48.625.747 ANNA CAROLINE DE SOUZA SA, CNPJ: 48.625.747/0001-61, CNAE: 4755-5/03",Encontrado
+CAROLINE FERREIRA DE ANGELO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+CAROLINE MATTOS TSUKAHARA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+CELINA CRISLAINE DE SOUZA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+CHARLLES HENRIQUE DA SILVA BARBOSA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+CINTIA SOARES MARQUES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+CLAUDIA MARIA MANHAES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+CLEIDE GALVAO CORREA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+CRISDAREN VIEIRA DOS SANTOS GIMENES,"Empresa: 32.644.588 CRISDAREN VIEIRA DOS SANTOS GIMENES, CNPJ: 32.644.588/0001-02, CNAE: 5620-1/04",Encontrado
+DAIANA BALBINO FERREIRA,"Empresa: DAIANA BALBINO FERREIRA, CNPJ: 22.108.709/0001-48, CNAE: 7319-0/02",Encontrado
+DAIANE ANIZIO VITAL,"Empresa: 21.676.919 DAIANE ANIZIO VITAL, CNPJ: 21.676.919/0001-70, CNAE: 7319-0/02",Encontrado
+DAIANE DE OLIVEIRA DA SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+DAIANE NOVAES DE SOUZA,"Empresa: DAIANE NOVAES DE SOUZA, CNPJ: 21.264.255/0001-31, CNAE: 5620-1/04",Encontrado
+DAISY DE MORAES BUENO DA SILVA,"Empresa: 54.843.296 DAISY DE MORAES BUENO DA SILVA, CNPJ: 54.843.296/0001-31, CNAE: 8219-9/99",Encontrado
+DAMASIO CIRIACO GOMES,Erro na busca,Erro
+DANIEL DE SOUZA FREITAS,"Empresa: 58.855.371 DANIEL DE SOUZA FREITAS, CNPJ: 58.855.371/0001-35, CNAE: 5611-2/03",Encontrado
+DANIELA APARECIDA BARBIERI,"Empresa: 57.435.202 DANIELA APARECIDA BARBIERI PIANUCI, CNPJ: 57.435.202/0001-83, CNAE: 4520-0/07",Encontrado
+DANIELA CAROLINE DA CUNHA PINTO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+DANIELA DE MENEZES FORTUNATO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+DANIELA DE OLIVEIRA MACEDO,"Empresa: 58.945.856 DANIELA DE OLIVEIRA MACEDO, CNPJ: 58.945.856/0001-10, CNAE: 4930-2/01",Encontrado
+DANIELA SPERANDIO CAVALCANTE,"Empresa: 52.639.933 DANIELA SPERANDIO CAVALCANTE, CNPJ: 52.639.933/0001-27, CNAE: 7319-0/02",Encontrado
+DANIELA TICIANE MACHADO NAKAMURA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+DANIELE DE OLIVEIRA PEREIRA,"Empresa: DANIELE DE OLIVEIRA PEREIRA, CNPJ: 29.545.490/0001-93, CNAE: 4729-6/99",Encontrado
+DANIELLA FERREIRA CARVALHO,"Empresa: 61.884.949 DANIELLA FERREIRA CARVALHO PEREIRA, CNPJ: 61.884.949/0001-96, CNAE: 8219-9/99",Encontrado
+DANIELLE CRISTINA DOS SANTOS CARVALHO,"Empresa: DANIELLE CRISTINA DOS SANTOS CARVALHO, CNPJ: 43.032.102/0001-00, CNAE: 1091-1/02",Encontrado
+DANIELLE FERNANDA ROCHA DE MORAIS,"Empresa: DANIELLE FERNANDA ROCHA DE MORAIS, CNPJ: 45.414.829/0001-79, CNAE: 4781-4/00",Encontrado
+DANILA CRISTINA DOS SANTOS MARQUES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+DANILO SOARES FEITOSA,Erro na busca,Erro
+DARDIENE BRANDAO DA SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+DAVID CHAGAS DE LIMA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+DAVID DANILLO FERREIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+DAYANE BEATRIZ ALVES FEITOSA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+DAYANE CRISTINA DA CRUZ FERREIRA ARAUJO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+DAYANE CRISTINA FIORINI DE ALMEIDA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+DAYANE DA SILVA FERREIRA,"Empresa: ANDREA DAYANE DA SILVA FERREIRA, CNPJ: 20.163.910/0001-00, CNAE: 4520-0/01",Encontrado
+DAYANE FRANCISCA DE JESUS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+DEBORA ALVES DOS SANTOS ANDRADE,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+DEBORA BRAZ DOS PRAZERES,"Empresa: DEBORA BRAZ DOS PRAZERES, CNPJ: 33.370.243/0001-70, CNAE: 4930-2/01",Encontrado
+DEBORA CRISTINA NUNES BEZERRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+DEBORA FAGUNDES BARBOSA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+DEBORA FERREIRA DA SILVA,"Empresa: DEBORA FERREIRA DA SILVA LTDA, CNPJ: 34.277.621/0001-39, CNAE: 7319-0/02",Encontrado
+DEBORA FERREIRA DA SILVA,"Empresa: DEBORA FERREIRA DA SILVA LTDA, CNPJ: 34.277.621/0001-39, CNAE: 7319-0/02",Encontrado
+DEISLANE ROCHA CARDOSO DE MELO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+DEIVID GOMES DA SILVA,"Empresa: 55.358.124 DEIVID GOMES DA SILVA, CNPJ: 55.358.124/0001-35, CNAE: 4929-9/02",Encontrado
+DENISE BICCIGO DE MORAES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+DENIZE RODRIGUES CARVALHO PEREIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+DHALET CRUZ CATAO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+DHULYANE FERREIRA DE LIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+DIEGO NUNES NERY CAMARA DA SILVA,"Empresa: DIEGO NUNES NERY CAMARA DA SILVA, CNPJ: 35.096.097/0001-62, CNAE: 7319-0/02",Encontrado
+DIOGO DA SILVA CARDOSO,"Empresa: 58.191.100 DIOGO DA SILVA CARDOSO, CNPJ: 58.191.100/0001-22, CNAE: 9529-1/02",Encontrado
+DOUGLAS SOUZA BEZERRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+EDILAINE AUGUSTO SILVA DE SOUZA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+EDIMARA LUCILENE SOARES,"Empresa: EDIMARA LUCILENE SOARES, CNPJ: 48.766.088/0001-83, CNAE: 3313-9/99",Encontrado
+EDISON FELIPE MARCELINO DE OLIVEIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+EDNA ALVES DO NASCIMENTO,"Empresa: EDNA ALVES DO NASCIMENTO, CNPJ: 11.696.707/0001-09, CNAE: 4781-4/00",Encontrado
+EDSON HIDEKI TURUTA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+EDSON MATHEUS DE ARAUJO,"Empresa: EDSON MATHEUS DE ARAUJO, CNPJ: 20.844.111/0001-91, CNAE: 4752-1/00",Encontrado
+EDUARDA CHULUC BELINI CABRAL,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+EDUARDA DA SILVA CARDOSO,"Empresa: 58.209.531 EDUARDA DA SILVA CARDOSO, CNPJ: 58.209.531/0001-79, CNAE: 7319-0/02",Encontrado
+EDUARDA SILVA DE ALMEIDA,"Empresa: 61.336.827 EDUARDA SILVA DE ALMEIDA, CNPJ: 61.336.827/0001-65, CNAE: 4781-4/00",Encontrado
+EDUARDO RYUJI YOKOYAMA FUNAYAMA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+EGLIN TIFFANI FONSECA DO NASCIMENTO DA SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ELAINE NASCIMENTO TEIXEIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ELANA DANTAS MODENA,"Empresa: 59.298.800 ELANA DANTAS MODENA, CNPJ: 59.298.800/0001-83, CNAE: 7319-0/02",Encontrado
+ELENNA JHENER SILVA RIBEIRO,"Empresa: 61.835.530 ELENNA JHENER SILVA RIBEIRO, CNPJ: 61.835.530/0001-44, CNAE: 7319-0/02",Encontrado
+ELIS DA SILVA ZANON,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ELISAMA VASCONCELOS PAGANARDI STABILE,"Empresa: ELISAMA VASCONCELOS PAGANARDI STABILE, CNPJ: 33.871.961/0001-20, CNAE: 9602-5/01",Encontrado
+ELISETE MARTINS PONCE,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ELOISA ANDRADE PONTES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ELOISA BARRADO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ELOISA NASCIMENTO BAPTISTA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ELOISY SOARES DOS SANTOS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ELTON NEVES DOS ANJOS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ELVIS DE SOUZA MAGALHAES,"Empresa: 57.130.283 ELVIS DE SOUZA MAGALHAES, CNPJ: 57.130.283/0001-03, CNAE: 8219-9/99",Encontrado
+ELVIS VIEIRA DE ALBUQUERQUE,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+EMANUELE FERNANDA CARVALHO GIUSTINO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+EMANUELLY LEME DA SILVA MIRANDA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+EMILIA CAMARGO DA CONCEICAO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+EMILLY APARECIDA SOUSA,"Empresa: 57.820.313 EMILLY APARECIDA SOUSA, CNPJ: 57.820.313/0001-03, CNAE: 4783-1/02",Encontrado
+EMILLY BEATRIZ OMAR RIBAS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+EMILLY FERNANDA MARINHO DE MORAIS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+EMILLY REAL RODRIGUES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+EMILLY SAMARA DE FREITAS,"Empresa: 56.424.727 EMILLY SAMARA DE FREITAS, CNPJ: 56.424.727/0001-50, CNAE: 1091-1/02",Encontrado
+EMILLY THAUANY FELISBINO OLIVATTO,"Empresa: 54.772.143 EMILLY THAUANY FELISBINO OLIVATTO, CNPJ: 54.772.143/0001-40, CNAE: 7319-0/02",Encontrado
+EMILLY VITORIA MARTINS PALMEIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+EMILY CAROLINE DOS SANTOS,"Empresa: EMILY CAROLINE DOS SANTOS, CNPJ: 37.616.579/0001-21, CNAE: 5611-2/01",Encontrado
+EMILY MORGANA CAMELO SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+EMINY CARDOSO RIBEIRO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ENGRID SALES CAMARA DA SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ENZO PADILHA JACOMELLI VENTURA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ERIDIELLY CRISTINA TEIXEIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ERIKA HELLEN DA SILVA RAPOZO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ERLANIA CARDOSO SANTOS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+EROS THEODORO MARTINS DA SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ESTEFANI GABRIELA DOS SANTOS SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ESTEFHANI VITORIA GOMES MARTIMBIANCO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ESTER GOMES MORAIS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ESTEVAO DONIZETE BERNARDO JUNIOR,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+EVELIN CAROLINE OLIVEIRA,"Empresa: 54.297.279 EVELIN CAROLINE OLIVEIRA LOPES, CNPJ: 54.297.279/0001-46, CNAE: 8712-3/00",Encontrado
+EVELINE SILVA ZARPELAO DE CAMPOS,"Empresa: EVELINE SILVA ZARPELAO DE CAMPOS, CNPJ: 38.654.719/0001-19, CNAE: 8219-9/99",Encontrado
+EVELYN CAROLINE NERY DE SOUZA COSTA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+EVELYN LAZARO DOS SANTOS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+EVILIN LUANE FERREIRA COUTINHO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+EVYLLIN APARECIDA RIBEIRO,"Empresa: 61.685.290 EVYLLIN APARECIDA RIBEIRO, CNPJ: 61.685.290/0001-49, CNAE: 5611-2/05",Encontrado
+FABIANA CARVALHO DE OLIVEIRA,"Empresa: FABIANA CARVALHO DE OLIVEIRA, CNPJ: 23.519.260/0001-73, CNAE: 9002-7/01",Encontrado
+FABIANA ROBERTO DOS REIS,"Empresa: AKINELY FABIANA ROBERTO DOS REIS INFORMATICA, CNPJ: 34.863.539/0001-96, CNAE: 8599-6/03",Encontrado
+FABIANA SALVADOR DE LIMA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+FABIO BARBOSA DA SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+FABIO GABRIEL GOMES MARIANO,"Empresa: 54.006.913 FABIO GABRIEL GOMES MARIANO, CNPJ: 54.006.913/0001-44, CNAE: 7319-0/02",Encontrado
+FABIO VENANCIO DOS SANTOS,"Empresa: 61.502.929 FABIO VENANCIO DOS SANTOS, CNPJ: 61.502.929/0001-03, CNAE: 4399-1/03",Encontrado
+FELIPE JONAS DA SILVA,"Empresa: 62.798.797 FELIPE JONAS DA SILVA, CNPJ: 62.798.797/0001-71, CNAE: 8219-9/99",Encontrado
+FELIPE MAGRO VALENTIM,"Empresa: FELIPE MAGRO VALENTIM, CNPJ: 36.502.079/0001-04, CNAE: 8219-9/99",Encontrado
+FELIPE PANIZZA EMBERSISC,Erro na busca,Erro
+FELIPE SISTI SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+FELIPY TEIXEIRA SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+FERNANDA ALVES DANTAS,"Empresa: FERNANDA ALVES DANTAS, CNPJ: 10.767.934/0001-07, CNAE: 7711-0/00",Encontrado
+FERNANDA ANDRADE DE OLIVEIRA,"Empresa: FERNANDA ANDRADE DE OLIVEIRA, CNPJ: 46.164.549/0001-12, CNAE: 4783-1/01",Encontrado
+FERNANDA CAROLINE DA CONCEICAO SANTOS,"Empresa: 61.373.075 FERNANDA CAROLINE DA CONCEICAO SANTOS, CNPJ: 61.373.075/0001-02, CNAE: 5912-0/99",Encontrado
+FERNANDA DOMINGUES ROCHA BAPTISTA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+FERNANDA GUIMARAES DE OLIVEIRA,"Empresa: FERNANDA GUIMARAES DE OLIVEIRA, CNPJ: 31.961.339/0001-88, CNAE: 4789-0/08",Encontrado
+FERNANDA MARQUES,"Empresa: FERNANDA MARQUES, CNPJ: 46.939.737/0001-75, CNAE: 8650-0/03",Encontrado
+FERNANDA ROCHA DE SOUZA CARDOZO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+FERNANDA SOARES SARTORO JERONIMO,"Empresa: FERNANDA SOARES SARTORO JERONIMO, CNPJ: 38.209.423/0001-99, CNAE: 8219-9/99",Encontrado
+FERNANDO SOARES ESTEVES JUNIOR,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+FILIPE SILVA DE OLIVEIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+FLAVIA DE SA CRUZ,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+FLAVIA MARCIA QUELHAS NATAL SANTOS,"Empresa: FLAVIA MARCIA QUELHAS NATAL SANTOS, CNPJ: 37.010.315/0001-20, CNAE: 8211-3/00",Encontrado
+FLAVIA RODRIGUES ALMEIDA,"Empresa: FLAVIA RODRIGUES ALMEIDA SCHITTINI, CNPJ: 37.407.974/0001-02, CNAE: 9602-5/02",Encontrado
+FLAVIO LUIZ DE PAULO DO NASCIMENTO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+FRANCIELE CASSEMIRO DE OLIVEIRA,"Empresa: 53.717.190 FRANCIELE CASSEMIRO DE OLIVEIRA, CNPJ: 53.717.190/0001-29, CNAE: 1093-7/01",Encontrado
+FRANCIELE COSTA LIMAO SOARES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+FRANCIELE CRISTINA DIAS OLIVEIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+FRANCINE REGINA MARQUES DE OLIVEIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+FRANCISCA JANAINA SILVEIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+GABRIEL ALVES FERREIRA,"Empresa: GABRIEL ALVES FERREIRA, CNPJ: 18.378.798/0001-75, CNAE: 4330-4/04",Encontrado
+GABRIEL DE OLIVEIRA NOGUEIRA ROMAR,"Empresa: 52.908.919 GABRIEL DE OLIVEIRA NOGUEIRA ROMAR, CNPJ: 52.908.919/0001-81, CNAE: 7319-0/02",Encontrado
+GABRIEL EDUARDO DIAS,"Empresa: 41.519.419 GABRIEL EDUARDO DIAS, CNPJ: 41.519.419/0001-31, CNAE: 8599-6/03",Encontrado
+GABRIEL GIBIM PIRES,"Empresa: 61.016.144 GABRIEL GIBIM PIRES, CNPJ: 61.016.144/0001-20, CNAE: 1821-1/00",Encontrado
+GABRIEL HENRIQUE DA SILVA ORTIZ,"Empresa: GABRIEL HENRIQUE DA SILVA ORTIZ, CNPJ: 43.639.427/0001-47, CNAE: 2542-0/00",Encontrado
+GABRIEL HENRIQUE DE SOUZA SILVA,Erro na busca,Erro
+GABRIEL LUCIANO DIAS DE SOUZA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+GABRIEL VENTURA DA CRUZ,"Empresa: 59.476.094 GABRIEL VENTURA DA CRUZ, CNPJ: 59.476.094/0001-12, CNAE: 4773-3/00",Encontrado
+GABRIEL VINICIOS ALMEIDA TORRES SANTOS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+GABRIEL YUDI MIYAKE,"Empresa: GABRIEL YUDI MIYAKE, CNPJ: 43.625.305/0001-00, CNAE: 7319-0/02",Encontrado
+GABRIELA BIGNARDI MALDONADO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+GABRIELA CESARIO DE CARVALHO,"Empresa: 59.308.290 GABRIELA CESARIO DE CARVALHO, CNPJ: 59.308.290/0001-88, CNAE: 8219-9/99",Encontrado
+GABRIELA CHRISTINY RODRIGUES GARCIA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+GABRIELA CRISTINA IGNACIO DOS SANTOS,"Empresa: 50.779.722 GABRIELA CRISTINA IGNACIO DOS SANTOS, CNPJ: 50.779.722/0001-64, CNAE: 7319-0/02",Encontrado
+GABRIELA FAZIONI E SILVA FERREIRA,Erro na busca,Erro
+GABRIELA FERNANDES CABRAL,"Empresa: GABRIELA FERNANDES CABRAL, CNPJ: 19.541.750/0001-07, CNAE: 4724-5/00",Encontrado
+GABRIELA FIDELIS DE SOUZA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+GABRIELA FRANCISCO BATISTA,"Empresa: GABRIELA FRANCISCO BATISTA, CNPJ: 48.778.769/0001-61, CNAE: 9602-5/01",Encontrado
+GABRIELA LIMA FORTES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+GABRIELA OLIVEIRA DOS SANTOS,"Empresa: L. GABRIELA OLIVEIRA DOS SANTOS, CNPJ: 63.097.665/0001-85, CNAE: 9602-5/02",Encontrado
+GABRIELA PORTUGAL BODINI,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+GABRIELE BARBOSA DE ARAUJO,"Empresa: 50.832.313 GABRIELE BARBOSA DE ARAUJO, CNPJ: 50.832.313/0001-84, CNAE: 4755-5/02",Encontrado
+GABRIELE BARONI,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+GABRIELE CRISTINA FERREIRA,"Empresa: 52.677.282 GABRIELE CRISTINA FERREIRA, CNPJ: 52.677.282/0001-60, CNAE: 9602-5/01",Encontrado
+GABRIELE FERNANDA DO NASCIMENTO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+GABRIELE MENESES PACHECO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+GABRIELE VITORIA CLARO VENTURA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+GABRIELLA BLAYA SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+GABRIELLA DE PAULA E PAIVA,"Empresa: 53.053.694 GABRIELLA DE PAULA E PAIVA, CNPJ: 53.053.694/0001-91, CNAE: 9609-2/08",Encontrado
+GABRIELLA EDUARDA CAVALCANTE BELTRAMELLO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+GABRIELLA MOREIRA STEVANELLI,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+GABRIELLA PIRES DA COSTA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+GABRIELLY DE OLIVEIRA LOUZANO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+GABRIELLY DOS SANTOS FARIA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+GABRIELY ROCHA DE OLIVEIRA,"Empresa: 60.405.748 GABRIELY ROCHA DE OLIVEIRA, CNPJ: 60.405.748/0001-04, CNAE: 7319-0/02",Encontrado
+GELISON DOS SANTOS FERREIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+GEOVANA DA CRUZ SILVA,"Empresa: GEOVANA DA CRUZ SILVA LTDA, CNPJ: 59.630.449/0001-86, CNAE: 8630-5/04",Encontrado
+GEOVANA PEDROSO DE OLIVEIRA,"Empresa: 61.818.056 GEOVANA PEDROSO DE OLIVEIRA, CNPJ: 61.818.056/0001-42, CNAE: 4781-4/00",Encontrado
+GEOVANA ZUCARELLI VELLOSO DE MORAES,"Empresa: 47.570.051 GEOVANA ZUCARELLI VELLOSO DE MORAES, CNPJ: 47.570.051/0001-12, CNAE: 7319-0/02",Encontrado
+GEOVANNA DOS SANTOS SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+GERALDA DA SILVA PAZINI,"Empresa: GERALDA DA SILVA PAZINI, CNPJ: 34.419.764/0001-38, CNAE: 9700-5/00",Encontrado
+GERSON JOSE GUARINAO,"Empresa: GERSON JOSE GUARINAO, CNPJ: 08.677.675/0001-81, CNAE: 0151-2/01",Encontrado
+GERSON SCOLARI BARBOSA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+GHEOVANNA SILVA SANTOS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+GILBERTO JESUS CORREA JUNIOR,"Empresa: GILBERTO JESUS CORREA JUNIOR, CNPJ: 28.751.398/0001-17, CNAE: 5620-1/04",Encontrado
+GILMAR DE JESUS SOARES,"Empresa: GILMAR DE JESUS SOARES, CNPJ: 18.085.346/0001-03, CNAE: 4930-2/01",Encontrado
+GIOVANA CAMARGO VALSECHI,"Empresa: GIOVANA CAMARGO VALSECHI, CNPJ: 32.697.663/0001-01, CNAE: 9602-5/01",Encontrado
+GIOVANA CAROLINA CABRAL PEREIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+GIOVANA DE MESQUITA NOVAIS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+GIOVANA LIVRAMENTO TRUGILO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+GIOVANA MULLER ARANTES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+GIOVANA SARGIANI,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+GIOVANIA VITORIA DE LIMA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+GIOVANNA BEATRIZ RAPOSO DE OLIVEIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+GIOVANNA DE MAGALHAES LINS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+GIOVANNA KAUANNA SALES DE QUEIROZ,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+GIOVANNA MERCADANTE SOARES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+GIOVANNA VICTORIA DOS SANTOS BARBARA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+GISELE GONCALVES,"Empresa: GISELE GONCALVES, CNPJ: 31.499.579/0001-02, CNAE: 4930-2/02",Encontrado
+GLEICE APARECIDA SEVERINO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+GLEICE VIANA PIRES,"Empresa: GLEICE VIANA PIRES, CNPJ: 34.841.402/0001-30, CNAE: 4781-4/00",Encontrado
+GRACE KELLY DA SILVA COSTA,"Empresa: 39.817.104 GRACE KELLY DA SILVA COSTA PESSOA, CNPJ: 39.817.104/0001-29, CNAE: 9602-5/01",Encontrado
+GRACIELE GUILHERMINA SOUZA DE CARVALHO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+GRASIELLE FERNANDA NICOLAU,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+GRAZIELA CRISTINY ALVES SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+GRAZIELA MAGALHAES PACHECO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+GRAZIELLA MUNCHENSKY DA CRUZ,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+GREICE CAROLINE RODRIGUES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+GREICIANE NUNES DA SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+GUILHERME ANGELINO DE LIMA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+GUILHERME LUIS DE ALMEIDA,"Empresa: GUILHERME LUIS DE ALMEIDA DOS SANTOS, CNPJ: 36.357.430/0001-02, CNAE: 4929-9/01",Encontrado
+GUILHERME MARQUETI RIBEIRO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+GUILHERME OLIVEIRA DA SILVA,"Empresa: GUILHERME OLIVEIRA DA SILVA, CNPJ: 23.817.933/0001-71, CNAE: 7319-0/03",Encontrado
+GUILHERME SOARES VETRANO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+GUSTAVO CORDEIRO COSTA,"Empresa: 53.988.710 GUSTAVO CORDEIRO COSTA, CNPJ: 53.988.710/0001-38, CNAE: 9511-8/00",Encontrado
+GUSTAVO DOS SANTOS MOITINHO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+HADNA LUCIA DE CARVALHO NASCIMENTO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+HAYSSA TOMAZ AMANCIO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+HELENA CONDE WOHNRATH,"Empresa: HELENA CONDE WOHNRATH, CNPJ: 32.157.074/0001-22, CNAE: 5620-1/04",Encontrado
+HELLAYNE DANIELLY VILHENA FERREIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+HELLEN CALABREZZI ALVARENGA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+HELOISA CAROLINI RUIZ THEXEIRA,"Empresa: 57.976.520 HELOISA CAROLINI RUIZ THEXEIRA, CNPJ: 57.976.520/0001-51, CNAE: 8219-9/99",Encontrado
+HELOISA PERMINA PIRES SILVA DA COSTA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+HELOIZA ALVES,"Empresa: HELOIZA ALVES CORREA, CNPJ: 26.493.494/0001-87, CNAE: 4781-4/00",Encontrado
+HEMMILY FERREIRA DOS SANTOS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+HENRI YUDI CORTONES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+HIGOR AUGUSTO DA SILVA,"Empresa: HIGOR AUGUSTO DA SILVA MOREIRA LTDA, CNPJ: 30.242.635/0001-66, CNAE: 4754-7/01",Encontrado
+HILLARY CRISTIANE LEONCO TAKEYAMA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+HINGRID GOES MENDES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+HONIAS HEBRON SOUZA,"Empresa: HONIAS HEBRON SOUZA, CNPJ: 28.040.048/0001-42, CNAE: 4781-4/00",Encontrado
+IARA RAYSSA SANTOS SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+IASMYM FIAMA SANTOS GOMES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+IGOR ROBERTO DA SILVA,"Empresa: IGOR ROBERTO DA SILVA, CNPJ: 50.129.182/0001-73, CNAE: 4789-0/04",Encontrado
+INAE MARIANE ONOFRE LIMA,"Empresa: INAE MARIANE ONOFRE LIMA, CNPJ: 12.561.862/0001-72, CNAE: 3212-4/00",Encontrado
+INAJAIRA SILVA DOS SANTOS,"Empresa: INAJAIRA SILVA DOS SANTOS, CNPJ: 27.156.168/0001-47, CNAE: 7721-7/00",Encontrado
+INGRID CARDOSO DOS SANTOS,"Empresa: INGRID CARDOSO DOS SANTOS, CNPJ: 32.461.672/0001-90, CNAE: 8599-6/99",Encontrado
+INGRID CAROLINE VIDAL,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+INGRID DOS SANTOS DA SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+INGRID ESTEFANI GOMES SANTOS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+INGRID NORRAINE FRANCISCA NOGUEIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+INGRID RAYANA DE SOUZA,"Empresa: 54.304.615 INGRID RAYANA DE SOUZA, CNPJ: 54.304.615/0001-30, CNAE: 9329-8/99",Encontrado
+INGRIDI CARINE CALIXTO DA SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+INGRYD FONSECA BRANCO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+IONA DE OLIVEIRA DA SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ISAAC CARDOSO DE OLIVEIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ISAAC RIBEIRO MOREIRA,"Empresa: 57.977.827 ISAAC RIBEIRO MOREIRA, CNPJ: 57.977.827/0001-77, CNAE: 5912-0/99",Encontrado
+ISABELA DIAS SCARPANTI,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ISABELA VITOR DE MOURA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ISABELA VON AH MORANO RESENDE,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ISABELLA CARDOSO ALBERTINI,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ISABELLA DA SILVA OLIVEIRA,"Empresa: 62.422.297 ISABELLA DA SILVA OLIVEIRA, CNPJ: 62.422.297/0001-30, CNAE: 8219-9/99",Encontrado
+ISABELLA DINIZ,"Empresa: ISABELLA DINIZ, CNPJ: 13.729.172/0001-42, CNAE: 0151-2/02",Encontrado
+ISABELLA SILVA DAGORT,"Empresa: ISABELLA SILVA DAGORT, CNPJ: 48.178.015/0001-70, CNAE: 9602-5/01",Encontrado
+ISABELLE BORGES DE LIMA SILVEIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ISABELLE CAROLINE LEITE DE BARROS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ISABELLE CESAR MORO,"Empresa: 55.003.006 ISABELLE CESAR MORO, CNPJ: 55.003.006/0001-04, CNAE: 4781-4/00",Encontrado
+ISABELLE MIGUEL BARATELLA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ISABELLY CRISTINA VIDAL CARDOSO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ISADORA BENTES BATISTA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ISADORA MITUHARU SUZUKI,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ISAMARA CRISTINA MANTOVANI CAMPOS,"Empresa: ISAMARA CRISTINA MANTOVANI CAMPOS, CNPJ: 25.020.943/0001-07, CNAE: 4781-4/00",Encontrado
+IVONARA RODRIGUES QUEIROZ,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+IZABELLA CARVALHO DE LIMA SANTOS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+JACKSON RODRIGO DE PAULA SERRANO,"Empresa: JACKSON RODRIGO DE PAULA SERRANO, CNPJ: 15.792.578/0001-03, CNAE: 6209-1/00",Encontrado
+JACQUELINE APARECIDA PEREIRA DE OLIVEIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+JACQUELINE GONCALVES RIBEIRO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+JAMILLY MIRANDA RANGEL DA SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+JAQUELINE CRISTINA BERTOLINE,"Empresa: 55.971.429 JAQUELINE CRISTINA BERTOLINE, CNPJ: 55.971.429/0001-18, CNAE: 7319-0/02",Encontrado
+JAQUELINE FERNANDA DA MOTTA ROCHA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+JAQUELINE MOREIRA DA LUZ TULER,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+JENIFER ESTEFANI ROCHA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+JENIFFER ALICE RANDO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+JENNIFER BORGES DE ALMEIDA,"Empresa: 52.447.206 JENNIFER BORGES DE ALMEIDA SOARES, CNPJ: 52.447.206/0001-68, CNAE: 4789-0/04",Encontrado
+JENNIFER EDUARDA DA ROSA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+JEOVANA PANCOTI DA SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+JESARELA DA SILVA FERREIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+JESSICA ALVES MISSIAS,"Empresa: 49.118.709 JESSICA ALVES MISSIAS, CNPJ: 49.118.709/0001-85, CNAE: 4781-4/00",Encontrado
+JESSICA AMANDA DE MORAES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+JESSICA CAMILA DOS SANTOS,"Empresa: JESSICA CAMILA DOS SANTOS, CNPJ: 31.578.559/0001-27, CNAE: 4541-2/06",Encontrado
+JESSICA CARDOSO DA SILVA,"Empresa: JESSICA CARDOSO DA SILVA, CNPJ: 17.768.731/0001-84, CNAE: 4772-5/00",Encontrado
+JESSICA CAROLINE SILVA DE OLIVEIRA,"Empresa: JESSICA CAROLINE SILVA DE OLIVEIRA, CNPJ: 23.065.278/0001-42, CNAE: 4754-7/01",Encontrado
+JESSICA DE AMORIM BEZERRA LOPES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+JESSICA DE OLIVEIRA PEREIRA,"Empresa: JESSICA DE OLIVEIRA PEREIRA, CNPJ: 32.807.878/0001-20, CNAE: 6209-1/00",Encontrado
+JESSICA FERNANDA BARONI CORREIA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+JESSICA LUANA DE LIMA RAMOS,"Empresa: 55.126.755 JESSICA LUANA DE LIMA RAMOS, CNPJ: 55.126.755/0001-29, CNAE: 8712-3/00",Encontrado
+JESSICA MOREIRA DE OLIVEIRA,"Empresa: JESSICA MOREIRA DE OLIVEIRA LTDA, CNPJ: 48.685.527/0001-23, CNAE: 0161-0/99",Encontrado
+JESSICA OLIVEIRA GARCIA,"Empresa: JESSICA OLIVEIRA GARCIA, CNPJ: 23.407.438/0001-94, CNAE: 3212-4/00",Encontrado
+JESSICA PAMELLA ARAUJO SILVA,"Empresa: JESSICA PAMELLA ARAUJO SILVA, CNPJ: 37.874.550/0001-40, CNAE: 7319-0/02",Encontrado
+JESSICA TRAINOTTI DE SOUZA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+JESSICA VIEIRA,"Empresa: JESSICA VIEIRA, CNPJ: 29.520.185/0001-47, CNAE: 4530-7/03",Encontrado
+JHENIFER FANTACUSSI VITORIO,"Empresa: 63.344.149 JHENIFER FANTACUSSI VITORIO, CNPJ: 63.344.149/0001-08, CNAE: 5320-2/01",Encontrado
+JHENIFER FRANCISCHINELLI GOMES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+JHENIFER MAGALHAES DE MORAES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+JHENYFER DA SILVA PAZINI,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+JHONATHAN NASCIMENTO DE OLIVEIRA,"Empresa: JHONATHAN NASCIMENTO DE OLIVEIRA, CNPJ: 42.311.478/0001-82, CNAE: 4520-0/01",Encontrado
+JHULIA APARECIDA DIAS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+JHULIA DE OLIVEIRA SCARATI,"Empresa: 57.012.728 JHULIA DE OLIVEIRA SCARATI, CNPJ: 57.012.728/0001-50, CNAE: 9602-5/02",Encontrado
+JOANA D ARC DOS SANTOS MACHADO,"Empresa: JOANA D ARC DOS SANTOS MACHADO, CNPJ: 17.077.478/0001-12, CNAE: 5620-1/01",Encontrado
+JOAO CLAUDIO MARTINEZ DA COSTA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+JOAO GUILHERME SOUSA GOMES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+JOAO PEDRO CASAROTI SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+JOAO PEDRO DIAS RODRIGUES,"Empresa: 60.843.916 JOAO PEDRO DIAS RODRIGUES, CNPJ: 60.843.916/0001-35, CNAE: 5229-0/99",Encontrado
+JOAO PEDRO NEVES JUSTINO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+JOAO PEDRO RAMOS SIMIONI,"Empresa: 56.086.228 JOAO PEDRO RAMOS SIMIONI, CNPJ: 56.086.228/0001-09, CNAE: 8219-9/99",Encontrado
+JOAO VICTOR SILVA DOS SANTOS,"Empresa: JOAO VICTOR SILVA DOS SANTOS, CNPJ: 60.729.861/0001-37, CNAE: 4679-6/02",Encontrado
+JOAO VITOR MARIANO CORTEZ SILVA,"Empresa: 52.275.595 JOAO VITOR MARIANO CORTEZ SILVA, CNPJ: 52.275.595/0001-91, CNAE: 8219-9/99",Encontrado
+JOAO VITOR SOUZA FERNANDES DA SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+JOEL LOURENCO FERREIRA ANTONIO,"Empresa: 49.736.113 JOEL LOURENCO FERREIRA ANTONIO, CNPJ: 49.736.113/0001-49, CNAE: 8219-9/99",Encontrado
+JOELSON JOSIMAR DIOGO DE LIMA,"Empresa: JOELSON JOSIMAR DIOGO DE LIMA, CNPJ: 48.073.363/0001-83, CNAE: 4729-6/99",Encontrado
+JOICE APARECIDA DOS SANTOS,Erro na busca,Erro
+JONAS SALLES PASSOS DOS SANTOS,"Empresa: 50.165.469 JONAS SALLES PASSOS DOS SANTOS, CNPJ: 50.165.469/0001-59, CNAE: 7319-0/02",Encontrado
+JONATHAN CESAR RODRIGUES ANSELMO,"Empresa: JONATHAN CESAR RODRIGUES ANSELMO, CNPJ: 41.083.615/0001-06, CNAE: 4781-4/00",Encontrado
+JOSE EWERTON PEREIRA,"Empresa: JOSE EWERTON PEREIRA, CNPJ: 18.461.086/0001-15, CNAE: 5611-2/04",Encontrado
+JOSE LUIZ BENEDITO,"Empresa: JOSE LUIZ BENEDITO, CNPJ: 07.963.569/0001-00, CNAE: 0121-1/01",Encontrado
+JOSIANE APARECIDA DA CUNHA,"Empresa: JOSIANE APARECIDA DA CUNHA LISBOA DOS SANTOS, CNPJ: 43.987.391/0001-92, CNAE: 5611-2/05",Encontrado
+JOSIANE FERNANDES DE SOUZA,Erro na busca,Erro
+JOSIANE RIBEIRO ALVES,Erro na busca,Erro
+JOSSY LAYSE ROLIM NASCIMENTO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+JOYCE ALMEIDA DE FREITAS,"Empresa: JOYCE ALMEIDA DE FREITAS, CNPJ: 46.306.541/0001-43, CNAE: 4723-7/00",Encontrado
+JOYCE CAMILLY DE JESUS SANTOS,"Empresa: JOYCE CAMILLY DE JESUS SANTOS, CNPJ: 48.545.960/0001-63, CNAE: 8219-9/99",Encontrado
+JOYCE FERNANDA SCHWARTZ,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+JUAN FERREIRA DUTRA,"Empresa: JUAN FERREIRA DUTRA, CNPJ: 32.402.277/0001-37, CNAE: 9602-5/01",Encontrado
+JUAN LEAO CANTAO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+JULIA ALMEIDA DA ROCHA,"Empresa: 58.838.995 JULIA ALMEIDA DA ROCHA, CNPJ: 58.838.995/0001-44, CNAE: 4781-4/00",Encontrado
+JULIA CAROLINE DA SILVA,"Empresa: 57.860.005 JULIA CAROLINE DA SILVA, CNPJ: 57.860.005/0001-01, CNAE: 5611-2/03",Encontrado
+JULIA CRISTINA FIDELES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+JULIA DENTE,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+JULIA EMILIA DA CUNHA DA SILVA,"Empresa: JULIA EMILIA DA CUNHA DA SILVA, CNPJ: 47.290.125/0001-67, CNAE: 8230-0/01",Encontrado
+JULIA FABIANA FERREIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+JULIA GABRIELLE PIRES CAMARGO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+JULIA GRAZIELLE DE ASSIS PINTO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+JULIA PEREIRA GOMES,"Empresa: JULIA PEREIRA GOMES, CNPJ: 33.241.131/0001-10, CNAE: 9609-2/08",Encontrado
+JULIA RIBEIRO,"Empresa: JULIA RIBEIRO LTDA, CNPJ: 58.531.802/0001-08, CNAE: 7311-4/00",Encontrado
+JULIA SCHIAVONE OLIVEIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+JULIA SOARES DE OLIVEIRA,"Empresa: 57.671.917 JULIA SOARES DE OLIVEIRA, CNPJ: 57.671.917/0001-35, CNAE: 4712-1/00",Encontrado
+JULIA TROVA DA SILVA,"Empresa: 63.255.174 JULIA TROVA DA SILVA, CNPJ: 63.255.174/0001-15, CNAE: 8219-9/99",Encontrado
+JULIA VITORIA LEITE RODRIGUES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+JULIANA APARECIDA DUARTE,"Empresa: JULIANA APARECIDA DUARTE, CNPJ: 38.267.396/0001-00, CNAE: 8219-9/99",Encontrado
+JULIANA DANIELA PAULINO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+JULIANA LABRUNA MOREIRA DE SOUZA CASTRO,"Empresa: 55.294.449 JULIANA LABRUNA MOREIRA DE SOUZA CASTRO, CNPJ: 55.294.449/0001-00, CNAE: 7319-0/02",Encontrado
+JULIANA MAGRINI FALCAO PEREIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+JULIANA MANHAES DA SILVA,"Empresa: JULIANA MANHAES DA SILVA, CNPJ: 43.070.577/0001-82, CNAE: 4781-4/00",Encontrado
+JULIANA OLIVEIRA BORGES,"Empresa: 60.564.593 JULIANA OLIVEIRA BORGES, CNPJ: 60.564.593/0001-40, CNAE: 5620-1/02",Encontrado
+JULIANA PIAO LUCAS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+JULIANA RIBEIRO NEVES,"Empresa: 35.877.998 JULIANA RIBEIRO NEVES, CNPJ: 35.877.998/0001-91, CNAE: 5620-1/04",Encontrado
+JULIANA ROSA CARDOSO,"Empresa: JULIANA ROSA CARDOSO, CNPJ: 21.166.013/0001-05, CNAE: 1412-6/02",Encontrado
+JULIANA SAYURI MACERA KAMOI,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+JULIANA SILVA DE SOUZA,"Empresa: JULIANA SILVA DE SOUZA, CNPJ: 41.003.611/0001-70, CNAE: 8219-9/99",Encontrado
+JULIANE LETICIA LEMES DE MELO,"Empresa: JULIANE LETICIA LEMES DE MELO, CNPJ: 29.806.078/0001-80, CNAE: 4789-0/01",Encontrado
+JULIANY CRISTINY OLIVEIRA DA SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+JULIENE CRISTINA FELIPE,"Empresa: 55.136.682 JULIENE CRISTINA FELIPE, CNPJ: 55.136.682/0001-56, CNAE: 9602-5/01",Encontrado
+JULIO CESAR DE OLIVEIRA PARDINI,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+JULIO CESAR TELLES FILHO,"Empresa: 46.678.783 JULIO CESAR TELLES FILHO, CNPJ: 46.678.783/0001-68, CNAE: 6190-6/99",Encontrado
+JULYA FERNANDA MELQUIADES DA SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+JUSSARA LOMENA DE SOUZA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+JUSSARA NEPOMUCENO CARDOSO DE SOUZA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+KAIO ACIOLI DA SILVA GONCALVES,"Empresa: 59.557.963 KAIO ACIOLI DA SILVA GONCALVES, CNPJ: 59.557.963/0001-33, CNAE: 8230-0/02",Encontrado
+KALIANY VALENTIN APARECIDO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+KALYNE SOARES NUNES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+KAMILE VITORIA DAMACENO,"Empresa: KAMILE VITORIA DAMACENO DE ALMEIDA, CNPJ: 45.555.461/0001-69, CNAE: 8219-9/99",Encontrado
+KAMILLY DE SOUZA,"Empresa: 60.874.891 KAMILLY DE SOUZA BIGGI, CNPJ: 60.874.891/0001-37, CNAE: 4744-0/99",Encontrado
+KAMILLY FERNANDA DE OLIVEIRA SARAGOSSA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+KAMILLY VITORIA APARECIDA FERRO DA SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+KAMILLY VITORIA CAMARGO BARBARA BRITO,"Empresa: 49.352.328 KAMILLY VITORIA CAMARGO BARBARA BRITO, CNPJ: 49.352.328/0001-66, CNAE: 1091-1/02",Encontrado
+KARINA CRISTIANE BATISTELLA LOPES DA SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+KARINA XAVIER HONORIO,"Empresa: KARINA XAVIER HONORIO, CNPJ: 44.423.289/0001-27, CNAE: 4781-4/00",Encontrado
+KARINE APARECIDA DE MELO CRUZ,"Empresa: 62.004.441 KARINE APARECIDA DE MELO CRUZ, CNPJ: 62.004.441/0001-19, CNAE: 7319-0/02",Encontrado
+KAROLAYNE DA GAMA MARQUES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+KAROLAYNE PADOAN DOS SANTOS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+KAROLINE OLIVEIRA DOS SANTOS,"Empresa: KAROLINE OLIVEIRA DOS SANTOS, CNPJ: 36.840.701/0001-86, CNAE: 7319-0/02",Encontrado
+KATHLEEN LUCIANA DE LIMA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+KATHRIN MARQUES BENICIO PEREIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+KATIA CRISTINA SILVA DE SOUZA,"Empresa: 51.411.530 KATIA CRISTINA SILVA DE SOUZA, CNPJ: 51.411.530/0001-63, CNAE: 8291-1/00",Encontrado
+KATIA RAIMUNDA SILVA,"Empresa: KATIA RAIMUNDA SILVA, CNPJ: 32.982.171/0001-50, CNAE: 1412-6/03",Encontrado
+KAUA HENRIQUE SEVERINO PRAGANA,"Empresa: 57.501.309 KAUA HENRIQUE SEVERINO PRAGANA, CNPJ: 57.501.309/0001-82, CNAE: 8230-0/01",Encontrado
+KAUA MARTINS DA SILVA,"Empresa: 55.717.267 NICOLAS KAUA MARTINS DA SILVA, CNPJ: 55.717.267/0001-96, CNAE: 4757-1/00",Encontrado
+KAWANY SANTOS ALMEIDA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+KAYCK SANTANA DE OLIVEIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+KAYLANNE VITORIA BRAGA RODRIGUES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+KAYLLANE MARIA DA SILVA BARBOSA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+KAYO RENNAN DA SILVA NASCIMENTO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+KEILA THAIS DE OLIVEIRA RODRIGUES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+KELLY BERMUDES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+KELLY CRISTINA DE SOUSA ROSADO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+KELLY CRISTINA GONCALVES VENDITE,"Empresa: KELLY CRISTINA GONCALVES VENDITE, CNPJ: 40.914.680/0001-73, CNAE: 4541-2/06",Encontrado
+KEMILY KESSY TOZATTO,"Empresa: KEMILY KESSY TOZATTO, CNPJ: 46.215.947/0001-10, CNAE: 3212-4/00",Encontrado
+KEREN RAFAELLY DA SILVA FARIAS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+KETELIN BUENO DE AGRELA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+KETLEY KAROLINE SILVA CORREA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+KEZYA VITORIA DE JESUS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+KHEREN REBECA GALVAO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+KIMBERLY CRISTINA SILVA SANTOS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LAIANA CRISTINA MARROCOS LEITE,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LAIANE CARLA FIGUEIREDO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LAIANE CASSIA DE ALMEIDA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LAIANE SAMEQUE SENAKIEVICZ,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LAIS DA SILVA MOTA MAX,"Empresa: 60.874.224 LAIS DA SILVA MOTA MAX, CNPJ: 60.874.224/0001-54, CNAE: 5611-2/01",Encontrado
+LAIS ISABELLA DE MORAES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LAISA MARTINELLI ASSUNCAO,"Empresa: LAISA MARTINELLI ASSUNCAO, CNPJ: 47.330.304/0001-80, CNAE: 8219-9/99",Encontrado
+LAIZA MARINA DE OLIVIERA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LANA RENATA SANTOS LONGO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LANA RODRIGUES DE OLIVEIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LANUZZA DE SOUZA CARVALHAES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LARA KETELLYN DE SOUSA ROCHA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LARISSA APARECIDA MEDEIROS SANTOS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LARISSA BRUNIERA,"Empresa: 58.069.384 LARISSA BRUNIERA, CNPJ: 58.069.384/0001-89, CNAE: 9602-5/01",Encontrado
+LARISSA CARRERI DONATELLI,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LARISSA FERNANDA DE SOUZA,"Empresa: LARISSA FERNANDA DE SOUZA LTDA, CNPJ: 53.365.866/0001-62, CNAE: 8630-5/03",Encontrado
+LARISSA FERNANDA DE SOUZA LIMA,"Empresa: LARISSA FERNANDA DE SOUZA LIMA, CNPJ: 20.859.723/0001-58, CNAE: 8230-0/01",Encontrado
+LARISSA GABRIELLE BARBOSA SIQUEIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LARISSA ROBERTA DE MORAES GUIMARAES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LARISSA VIEIRA FIGUEIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LARISSE ALESSANDRA SIQUEIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LAURA AMANCIO LIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LAURA ANDREO E SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LAURA BRANDAO LELLIS DE CARVALHO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LAURA MARGUTTI MARQUES GONCALVES PEREIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LAURA MICAELLY PEREIRA DE SOUZA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LAURA PEREIRA LEITE,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LAUREN ARAUJO RIBEIRO RUELA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LAVINIA FRANCIELE GERALDO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LAYNARA ROSA ROCHA,"Empresa: 56.095.918 LAYNARA ROSA ROCHA, CNPJ: 56.095.918/0001-16, CNAE: 1821-1/00",Encontrado
+LAYSA CRISTINA ACACIO GOMES,"Empresa: LAYSA CRISTINA ACACIO GOMES, CNPJ: 47.576.961/0001-02, CNAE: 8299-7/99",Encontrado
+LEANDRA CRISTINA LUIZ MOREIRA LIMA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LEANDRA DOS SANTOS NUNES,"Empresa: 63.240.374 EVELYN LEANDRA DOS SANTOS NUNES, CNPJ: 63.240.374/0001-02, CNAE: 4930-2/02",Encontrado
+LEO RODRIGUES NETO,"Empresa: 45.379.821 LEO RODRIGUES NETO, CNPJ: 45.379.821/0001-19, CNAE: 8219-9/99",Encontrado
+LEONARDO BARROS SILVA ASSUNCAO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LEONARDO DA SILVA BELUZZO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LEONARDO TOGNOLLI GUARINAO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LEONILDES SOBRINHA SANTOS FIGUEIREDO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LETICIA BALLAN ABILE,"Empresa: LETICIA BALLAN ABILE, CNPJ: 39.145.710/0001-45, CNAE: 4781-4/00",Encontrado
+LETICIA BEATRIZ RODRIGUES,"Empresa: LETICIA BEATRIZ RODRIGUES NESIO, CNPJ: 32.118.256/0001-94, CNAE: 1813-0/99",Encontrado
+LETICIA CONCHITO,"Empresa: LETICIA CONCHITO, CNPJ: 26.234.607/0001-20, CNAE: 9602-5/02",Encontrado
+LETICIA CRISTINA MORAES DE OLIVEIRA,"Empresa: 58.896.947 LETICIA CRISTINA MORAES DE OLIVEIRA DOS SANTOS, CNPJ: 58.896.947/0001-02, CNAE: 5320-2/02",Encontrado
+LETICIA CRISTINA PINHEIRO,"Empresa: LETICIA CRISTINA PINHEIRO, CNPJ: 30.010.702/0001-17, CNAE: 9602-5/01",Encontrado
+LETICIA DA SILVA MARQUES,Erro na busca,Erro
+LETICIA DE ARAUJO BONFAINI,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LETICIA FERNANDA DA SILVA SANTOS,"Empresa: 49.073.135 LETICIA FERNANDA DA SILVA SANTOS, CNPJ: 49.073.135/0001-76, CNAE: 1091-1/02",Encontrado
+LETICIA GABRIELE DA CRUZ,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LETICIA GOMES,"Empresa: LETICIA GOMES, CNPJ: 02.226.913/0001-56, CNAE: 4789-0/99",Encontrado
+LETICIA GOMES RODRIGUES,"Empresa: LETICIA GOMES RODRIGUES, CNPJ: 51.257.607/0001-92, CNAE: 4722-9/01",Encontrado
+LETICIA MOURA PINHEIRO,"Empresa: 51.348.965 LETICIA MOURA PINHEIRO, CNPJ: 51.348.965/0001-00, CNAE: 9511-8/00",Encontrado
+LETICIA RODRIGUES CASAGRANDE,"Empresa: LETICIA RODRIGUES CASAGRANDE, CNPJ: 42.365.078/0001-50, CNAE: 5620-1/04",Encontrado
+LETICIA RODRIGUES DA SILVA,Erro na busca,Erro
+LETICIA VITORIA DA SILVA BARBOSA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LILIANE APARECIDA RIBEIRO,"Empresa: LILIANE APARECIDA RIBEIRO, CNPJ: 38.128.985/0001-08, CNAE: 1091-1/02",Encontrado
+LILIANE FREITAS DUTRA,"Empresa: ELEICAO 2024 LILIANE FREITAS DUTRA VEREADOR, CNPJ: 56.858.126/0001-56, CNAE: 9492-8/00",Encontrado
+LINCOLN BINOTTO GONCALVES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LINDINES CIAVOLELA BRITO DE OLIVEIRA,"Empresa: 59.211.386 LINDINES CIAVOLELA BRITO DE OLIVEIRA, CNPJ: 59.211.386/0001-23, CNAE: 8219-9/99",Encontrado
+LIVIA MARIA DE ANDRADE SILVESTRE,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LIVIA MARIA DIAS GONCALVES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LIVIA ROBERTO,"Empresa: 50.311.004 LIVIA ROBERTO, CNPJ: 50.311.004/0001-69, CNAE: 5611-2/03",Encontrado
+LIVIAN OLIVEIRA WHITE COUTINHO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LORAINE DE SOUZA CAETANO,"Empresa: LORAINE DE SOUZA CAETANO, CNPJ: 45.444.219/0001-18, CNAE: 4744-0/99",Encontrado
+LORENA GABRIELA FERRAZ SILVINO,"Empresa: 55.815.630 LORENA GABRIELA FERRAZ SILVINO, CNPJ: 55.815.630/0001-06, CNAE: 5611-2/01",Encontrado
+LORENA MARIANE DE SA SANTOS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LORENNA DAVILA DE LIMA DA SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LORRAINE GABRIELE FORTUNATO DE OLIVEIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LORRANA DA SILVA GOMES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LORRANA OLIVEIRA DOS SANTOS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LUAN DE LIMA DINIZ,"Empresa: 40.277.947 LUAN DE LIMA DINIZ, CNPJ: 40.277.947/0001-69, CNAE: 9511-8/00",Encontrado
+LUAN GABRIEL NATALINO DA SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LUAN GUSTAVO LEODORO CAMARGO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LUANA BRITO DE SOUZA SANTOS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LUANA CARVALHO ALTINO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LUANA CRISTINA LIMA BEZERRA,"Empresa: 50.958.894 LUANA CRISTINA LIMA BEZERRA, CNPJ: 50.958.894/0001-03, CNAE: 5620-1/04",Encontrado
+LUANA CRISTINA LUIZ,"Empresa: LUANA CRISTINA LUIZ, CNPJ: 38.214.248/0001-28, CNAE: 8219-9/99",Encontrado
+LUANA CRISTINA MENDES,"Empresa: 63.040.726 LUANA CRISTINA MENDES, CNPJ: 63.040.726/0001-78, CNAE: 3811-4/00",Encontrado
+LUANA DA SILVA CORREA LEITE,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LUANA DA SILVA GERMANO,"Empresa: 54.815.082 LUANA DA SILVA GERMANO, CNPJ: 54.815.082/0001-51, CNAE: 5611-2/03",Encontrado
+LUANA FLAVIA TOMAS CLETTI,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LUANA OLIVEIRA PINTO,"Empresa: 63.513.243 LUANA OLIVEIRA PINTO, CNPJ: 63.513.243/0001-43, CNAE: 9512-6/00",Encontrado
+LUANY CRISTINA DE ARAUJO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LUCAS ALVES BARBOSA,"Empresa: 57.465.278 LUCAS ALVES BARBOSA, CNPJ: 57.465.278/0001-51, CNAE: 5229-0/99",Encontrado
+LUCAS APARECIDO CHAVES MACHADO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LUCAS DE MELLO FREITAS,"Empresa: 52.722.396 LUCAS DE MELLO FREITAS, CNPJ: 52.722.396/0001-84, CNAE: 8599-6/03",Encontrado
+LUCAS FRANCISCO PEREIRA RODRIGUES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LUCAS MATHEUS BIANCHI,"Empresa: 53.462.534 LUCAS MATHEUS BIANCHI, CNPJ: 53.462.534/0001-04, CNAE: 4752-1/00",Encontrado
+LUCAS ROBERTO DE OLIVEIRA ANDRE,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LUCAS VINICIUS RODRIGUES DE SOUZA SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LUCCA RAVAGNANI ELIAS,"Empresa: 50.523.908 LUCCA RAVAGNANI ELIAS, CNPJ: 50.523.908/0001-58, CNAE: 8599-6/99",Encontrado
+LUCIANA ALVES RODRIGUES,"Empresa: LUCIANA ALVES RODRIGUES, CNPJ: 45.198.275/0001-10, CNAE: 7112-0/00",Encontrado
+LUCIANO MARCELINO,"Empresa: 27.396.623 LUCIANO MARCELINO, CNPJ: 27.396.623/0001-81, CNAE: 4712-1/00",Encontrado
+LUCIENE ANDREIA DA SILVA,"Empresa: 49.393.776 LUCIENE ANDREIA DA SILVA, CNPJ: 49.393.776/0001-08, CNAE: 9602-5/01",Encontrado
+LUCIENE APARECIDA PEDRO DA SILVA TOVOLOM,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LUCILENE BEATRIZ MENDES LUIZ,"Empresa: LUCILENE BEATRIZ MENDES LUIZ, CNPJ: 27.121.567/0001-72, CNAE: 5611-2/03",Encontrado
+LUCIMARA CRISTINA MANTELE PEREIRA,Erro na busca,Erro
+LUCINEIA FLAUSINO DIAS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LUELAINE DE OLIVEIRA BARBOSA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LUENE MENEGHETTI DA SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LUIS FELIPE GONCALVES CARNEIRO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LUIS FELIPE SALDANHA MODOLO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LUIS HENRIQUE RIBEIRO DOS SANTOS,"Empresa: 61.625.260 LUIS HENRIQUE RIBEIRO DOS SANTOS, CNPJ: 61.625.260/0001-47, CNAE: 5819-1/00",Encontrado
+LUISA FELIX LACERDA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LUIZ FERNANDO DA LAPA BARBOSA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+LUIZ HENRIQUE DA SILVA,"Empresa: LUIZ HENRIQUE DA SILVA, CNPJ: 10.469.485/0001-10, CNAE: 6201-5/01",Encontrado
+LUIZ PEDAO NETO,"Empresa: 62.554.017 LUIZ PEDAO NETO, CNPJ: 62.554.017/0001-48, CNAE: 8219-9/99",Encontrado
+LUMA CAMILA SILVA DADONA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MAGALI APARECIDA BUCHERI DE LIMA,"Empresa: 32.487.153 MAGALI APARECIDA BUCHERI DE LIMA, CNPJ: 32.487.153/0001-00, CNAE: 7420-0/01",Encontrado
+MANOEL MESSIAS DA COSTA,"Empresa: MANOEL MESSIAS DA COSTA, CNPJ: 27.033.549/0001-39, CNAE: 0121-1/01",Encontrado
+MANOELA SOUZA ROCHA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MARCELA DE JESUS SOARES MODRO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MARCELA VAMPRE DO NASCIMENTO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MARCELLA GABRIELA DA SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MARCELLI DO CARMO DA ROCHA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MARCIA OLIVEIRA BLANCH DE FREITAS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MARCIA REGINA MEDEIROS ESPINOSA GONCALVES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MARCIELE NOVAIS SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MARCIO FRANCA DE SOUSA,"Empresa: MARCIO FRANCA DE SOUSA, CNPJ: 42.125.319/0001-93, CNAE: 4399-1/03",Encontrado
+MARCOS TULIO RODRIGUES SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MARCOS VINICIUS SANTOS DE SOUZA MATIAS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MARCUS VINICIUS EUZEBIO VIEIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MARGARIDA MARIA LEITE ABREU,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MARIA ALICE MANOEL NURMBERGER,"Empresa: MARIA ALICE MANOEL NURMBERGER, CNPJ: 11.782.040/0001-59, CNAE: 5620-1/04",Encontrado
+MARIA BEATRIZ BARROS MACEDO,"Empresa: 53.769.132 MARIA BEATRIZ BARROS MACEDO, CNPJ: 53.769.132/0001-49, CNAE: 8219-9/99",Encontrado
+MARIA BERNADETE PEREIRA SALES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MARIA CLARA ALVES ZUANON MACHADO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MARIA CLARA CAVALCANTI FAVERO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MARIA CLARA DE SOUZA,"Empresa: 49.795.724 MARIA CLARA DE SOUZA, CNPJ: 49.795.724/0001-68, CNAE: 8230-0/01",Encontrado
+MARIA CLARA FERRO BASTOS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MARIA EDUARDA ARAUJO,"Empresa: MARIA EDUARDA ARAUJO SERVICOS ESTETICOS LTDA, CNPJ: 52.178.938/0001-08, CNAE: 9602-5/02",Encontrado
+MARIA EDUARDA BARCARSE ROMANHOLI,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MARIA EDUARDA CARVALHO DE SOUSA,"Empresa: MARIA EDUARDA CARVALHO DE SOUSA, CNPJ: 37.340.988/0001-48, CNAE: 5620-1/04",Encontrado
+MARIA EDUARDA CONEGO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MARIA EDUARDA DA SILVA MARIANO,"Empresa: MARIA EDUARDA DA SILVA MARIANO, CNPJ: 35.119.442/0001-36, CNAE: 8219-9/99",Encontrado
+MARIA EDUARDA DA SILVA OLIVIO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MARIA EDUARDA DE SOUZA,"Empresa: MARIA EDUARDA DE SOUZA, CNPJ: 58.067.940/0001-88, CNAE: 8599-6/04",Encontrado
+MARIA EDUARDA FURTUOSO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MARIA EDUARDA MARQUES DA SILVA,"Empresa: 59.067.417 MARIA EDUARDA MARQUES DA SILVA, CNPJ: 59.067.417/0001-14, CNAE: 9602-5/01",Encontrado
+MARIA EDUARDA PIRES,"Empresa: 57.874.052 MARIA EDUARDA PIRES, CNPJ: 57.874.052/0001-04, CNAE: 9602-5/01",Encontrado
+MARIA EDUARDA SILVA DE OLIVEIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MARIA EDUARDA TEODORO,"Empresa: 53.866.805 MARIA EDUARDA TEODORO, CNPJ: 53.866.805/0001-89, CNAE: 4781-4/00",Encontrado
+MARIA EDUARDA VILLAS BOAS PEREIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MARIA EDUARDA VIZACRI DE DEUS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MARIA FERNANDA DE OLIVEIRA,"Empresa: MARIA FERNANDA DE OLIVEIRA, CNPJ: 23.487.801/0001-29, CNAE: 0121-1/01",Encontrado
+MARIA HELOYSA DE OLIVEIRA GUIMARAES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MARIA ISABELA VEIGA GUSMAO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MARIA JULIA TOSI PERES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MARIA JULIA VOLPIANO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MARIA LARISSA LOPES DA SILVA,"Empresa: 63.582.566 MARIA LARISSA LOPES DA SILVA, CNPJ: 63.582.566/0001-99, CNAE: 5620-1/04",Encontrado
+MARIA LAURA LIMA DE SOUSA RIBEIRO GUAJAJARA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MARIA PEREIRA ALENCAR,"Empresa: CICERA MARIA PEREIRA ALENCAR, CNPJ: 00.488.594/0001-21, CNAE: 4755-5/02",Encontrado
+MARIA VITORIA DEZIDERIO DE SOUZA,"Empresa: MARIA VITORIA DEZIDERIO DE SOUZA, CNPJ: 48.816.544/0001-52, CNAE: 4781-4/00",Encontrado
+MARIA VITORIA GOES FERNANDES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MARIANA FERNANDA CALIXTO VALIM,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MARIANA GABRIELE CAETANO BARBOZA,"Empresa: 60.296.354 MARIANA GABRIELE CAETANO BARBOZA, CNPJ: 60.296.354/0001-57, CNAE: 7319-0/02",Encontrado
+MARIANA LOPES FELICIANO DA SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MARIANA PAPILLE CARDOSO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MARIANA SOUZA QUEIROZ,"Empresa: MARIANA SOUZA QUEIROZ DE ALMEIDA, CNPJ: 22.578.693/0001-37, CNAE: 5611-2/03",Encontrado
+MARIANE DE SIQUEIRA JANUARIO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MARIANE VIEIRA DOS SANTOS,"Empresa: 53.121.212 MARIANE VIEIRA DOS SANTOS, CNPJ: 53.121.212/0001-93, CNAE: 4789-0/99",Encontrado
+MARIANI ROQUE BRAZ PETENON,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MARIELENA APARECIDA ANDREOLLI,"Empresa: MARIELENA APARECIDA ANDREOLLI, CNPJ: 48.224.953/0001-60, CNAE: 9602-5/02",Encontrado
+MARINA BARROS TELOLI,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MARINA DA SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MARJORIE PEREIRA SANO,"Empresa: 47.719.701 MARJORIE PEREIRA SANO, CNPJ: 47.719.701/0001-49, CNAE: 4330-4/99",Encontrado
+MARLENE CONCEICAO MAGRO VALENTIM,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MARLON DE FRANCA BEZERRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MARTA DOS SANTOS RODRIGUES DA SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MARYLLIN DAS GRACAS DA ROCHA PASSOS DE OLIVEIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MATEUS DE SOUZA LIMA,"Empresa: 22.266.925 MATEUS DE SOUZA LIMA, CNPJ: 22.266.925/0001-11, CNAE: 4399-1/03",Encontrado
+MATEUS HENRIQUE SILVA DOS SANTOS,"Empresa: 54.872.667 MATEUS HENRIQUE SILVA DOS SANTOS, CNPJ: 54.872.667/0001-03, CNAE: 8230-0/01",Encontrado
+MATHEUS CARDOSO FUNARI,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MATHEUS ITALO DE TOLEDO SANTOS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MATHEUS VICTOR FERREIRA DE SOUZA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MATHEUS VIDEIRA CORREA,"Empresa: MATHEUS VIDEIRA CORREA, CNPJ: 41.161.602/0001-08, CNAE: 6209-1/00",Encontrado
+MAURA ANGELICA RIBEIRO NAPPI,"Empresa: MAURA ANGELICA RIBEIRO NAPPI, CNPJ: 17.288.526/0001-11, CNAE: 4759-8/99",Encontrado
+MAURICIO CHICALE FERREIRA JUNIOR,"Empresa: MAURICIO CHICALE FERREIRA JUNIOR, CNPJ: 31.201.372/0001-00, CNAE: 4729-6/01",Encontrado
+MAURO DEGLYSON DOS SANTOS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MAYARA JUVENCIO DE OLIVEIRA,"Empresa: MAYARA JUVENCIO DE OLIVEIRA, CNPJ: 24.246.631/0001-53, CNAE: 4753-9/00",Encontrado
+MAYARA KAREM CAMARGO DE LIMA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MAYARA LORRAYNE PIOVAN COSER,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MAYENE SCAVONI,"Empresa: 51.268.801 MAYENE SCAVONI, CNPJ: 51.268.801/0001-73, CNAE: 4781-4/00",Encontrado
+MAYRA ABRAO GALINDO,"Empresa: 49.679.057 MAYRA ABRAO GALINDO, CNPJ: 49.679.057/0001-58, CNAE: 4781-4/00",Encontrado
+MAYSA FERREIRA PIRES SANTOS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MAYSA HELENA MARTINS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MAYZA RODRIGUES VICTORINO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MELLORY DOS SANTOS PENHA DA SILVA,"Empresa: 58.704.228 MELLORY DOS SANTOS PENHA DA SILVA, CNPJ: 58.704.228/0001-42, CNAE: 4772-5/00",Encontrado
+MICAELA AGUIAR PINTO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MICAELA COIMBRA DE MORAES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MICAELA SCHEMIDT DOS SANTOS,"Empresa: 53.030.838 MICAELA SCHEMIDT DOS SANTOS, CNPJ: 53.030.838/0001-94, CNAE: 8712-3/00",Encontrado
+MICAELE NASCIMENTO DOS REIS,"Empresa: 50.742.830 MICAELE NASCIMENTO DOS REIS, CNPJ: 50.742.830/0001-62, CNAE: 9602-5/02",Encontrado
+MICHELE CRISTIANE DE SOUZA,"Empresa: 14.591.420 MICHELE CRISTIANE DE SOUZA, CNPJ: 14.591.420/0001-02, CNAE: 5620-1/01",Encontrado
+MICHELE ORTIZ APPOLINARIO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MICHELE PORTO RODRIGUES,"Empresa: MICHELE PORTO RODRIGUES, CNPJ: 43.368.461/0001-24, CNAE: 9602-5/01",Encontrado
+MICHELI FURLANIS TRALDI,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MICHELI RODRIGUES PEREIRA,"Empresa: 32.048.360 MICHELI RODRIGUES PEREIRA, CNPJ: 32.048.360/0001-50, CNAE: 9602-5/01",Encontrado
+MIGUEL ALVES FERREIRA,"Empresa: MIGUEL ALVES FERREIRA, CNPJ: 08.880.176/0001-97, CNAE: 0113-0/00",Encontrado
+MILENA BETINE FERREIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MILENA DE CAMARGO,"Empresa: MILENA DE CAMARGO SOUSA, CNPJ: 29.612.094/0001-31, CNAE: 7319-0/03",Encontrado
+MILENA NASCIMENTO DE LIMA,"Empresa: 49.128.847 MILENA NASCIMENTO DE LIMA, CNPJ: 49.128.847/0001-45, CNAE: 4789-0/01",Encontrado
+MILENA RODRIGUES GAINO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MILENE PINHEIRO DA SILVA,"Empresa: 61.006.106 KAREN MILENE PINHEIRO DA SILVA, CNPJ: 61.006.106/0001-97, CNAE: 1091-1/02",Encontrado
+MIRELA DE AZEVEDO MARTINES,Erro na busca,Erro
+MIRIA CRISTINA PARIZ,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MIRIAN PORTO ALBERTINI,"Empresa: 52.791.425 MIRIAN PORTO ALBERTINI, CNPJ: 52.791.425/0001-60, CNAE: 7319-0/02",Encontrado
+MIYA AMILEVICIUS MORALES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MONICA DE MENEZES GRANCHEUX,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MONICA LOPES DOS SANTOS,"Empresa: MONICA LOPES DOS SANTOS, CNPJ: 44.630.681/0001-47, CNAE: 5320-2/01",Encontrado
+MONIQUE DANIELA ANZOLIM,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MONIQUE DOS SANTOS RODRIGUES,"Empresa: MAYARA MONIQUE DOS SANTOS RODRIGUES, CNPJ: 61.511.645/0001-83, CNAE: 4754-7/02",Encontrado
+MURILO HENRIQUE FARIAS PEIXOTO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MURILO LOPES DA COSTA,"Empresa: 57.177.005 MURILO LOPES DA COSTA, CNPJ: 57.177.005/0001-01, CNAE: 7319-0/02",Encontrado
+MYKAELY BRENDA FAGUNDES GARCIA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+MYLLENA RIBEIRO DE ANDRADE,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+NAIARA PRISCILA DA CRUZ CARAO,"Empresa: 51.219.671 NAIARA PRISCILA DA CRUZ CARAO, CNPJ: 51.219.671/0001-89, CNAE: 4781-4/00",Encontrado
+NAILA TEODORO VIEIRA SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+NAIRA MACORIS FERREIRA,"Empresa: NAIRA MACORIS FERREIRA, CNPJ: 38.327.184/0001-71, CNAE: 8219-9/99",Encontrado
+NAOMY LOHANA GAIA DE OLIVEIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+NATALI DE JESUS REGIS BERNABE,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+NATALIA ALESSANDRA FERRETTI,"Empresa: 55.896.685 NATALIA ALESSANDRA FERRETTI, CNPJ: 55.896.685/0001-98, CNAE: 4781-4/00",Encontrado
+NATALIA DE JESUS LIMA DA CUNHA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+NATALIA DE JESUS PIRES,"Empresa: NATALIA DE JESUS PIRES, CNPJ: 26.678.502/0001-60, CNAE: 9700-5/00",Encontrado
+NATALIA DOS SANTOS SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+NATALIA DOS SANTOS VERGILIO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+NATALIA REGINA GUARINAO TARIFA,"Empresa: NATALIA REGINA GUARINAO TARIFA, CNPJ: 40.402.151/0001-90, CNAE: 4757-1/00",Encontrado
+NATALIA STEFANIE DO PRADO SANTOS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+NATAN RAFAEL BARROS PALHARES,"Empresa: 52.833.635 NATAN RAFAEL BARROS PALHARES, CNPJ: 52.833.635/0001-73, CNAE: 7319-0/02",Encontrado
+NATANY CRISTINA BERALDO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+NATHACHI MENEZES BREVE,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+NATHALIA MARIA SERRA FRANCO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+NATHALIA MARTINS SILVA,"Empresa: NATHALIA MARTINS SILVA ARQUITETURA, CNPJ: 60.752.502/0001-09, CNAE: 7111-1/00",Encontrado
+NATHALIA RITA SOUZA DE MORAIS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+NATHALIA VITORIA LOPES DE FARIA DA SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+NATIELLEN CRISTINA DOS SANTOS LIMA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+NAYARA FARIA DA SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+NAYARA VAZ FIGUEIREDO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+NERI BATISTA,"Empresa: NERI BATISTA, CNPJ: 23.186.998/0001-66, CNAE: 5611-2/01",Encontrado
+NEUSA CORREIA,"Empresa: NEUSA CORREIA SANTOS, CNPJ: 06.171.406/0001-13, CNAE: 4721-1/02",Encontrado
+NICOLAS EDUARDO MELO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+NICOLAS MATOSO COSTA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+NICOLE AMANDA MARTINS DOS SANTOS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+NICOLE GUIMARAES SILVA,"Empresa: 61.916.612 NICOLE GUIMARAES SILVA, CNPJ: 61.916.612/0001-13, CNAE: 4759-8/99",Encontrado
+NICOLLE SIQUEIRA DE OLIVEIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+NICOLLY BARBOSA DOS SANTOS,"Empresa: 52.111.807 NICOLLY BARBOSA DOS SANTOS, CNPJ: 52.111.807/0001-03, CNAE: 5229-0/99",Encontrado
+NICOLLY REISY PEREIRA LOPES,"Empresa: 63.496.813 NICOLLY REISY PEREIRA LOPES, CNPJ: 63.496.813/0001-34, CNAE: 2330-3/99",Encontrado
+NICOLY BUENO PARMEGGIANI,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+NOEMI DONATO MARCAL,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+NUBIA LAISA SILVESTRE TIBERIO PERES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+OSVALDO AUGUSTO AVELINO ROCHA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+PABLO JULIO RODRIGUES DA SILVA,"Empresa: 57.856.440 PABLO JULIO RODRIGUES DA SILVA, CNPJ: 57.856.440/0001-62, CNAE: 4781-4/00",Encontrado
+PALOMA PAES RODRIGUES,"Empresa: PALOMA PAES RODRIGUES, CNPJ: 31.120.753/0001-64, CNAE: 8599-6/04",Encontrado
+PAMELA CAROLINA DE SOUZA VIEIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+PAMELA CRISTINA DA SILVA RIBEIRO,"Empresa: PAMELA CRISTINA DA SILVA RIBEIRO, CNPJ: 43.180.332/0001-08, CNAE: 5620-1/04",Encontrado
+PAMELA CRISTINA TRIUNFO SOUSA,"Empresa: 61.639.560 PAMELA CRISTINA TRIUNFO SOUSA, CNPJ: 61.639.560/0001-85, CNAE: 9602-5/01",Encontrado
+PAMELA ROBERTA LIBERALI,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+PAMELLA VITORIA SANTOS PINTO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+PAOLA AMARAL MACHADO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+PATRICIA FERNANDES VIEIRA,"Empresa: PATRICIA FERNANDES VIEIRA, CNPJ: 28.200.884/0001-47, CNAE: 4781-4/00",Encontrado
+PAULA CRISTINA DA SILVA,"Empresa: PAULA CRISTINA DA SILVA, CNPJ: 31.988.812/0001-10, CNAE: 8219-9/99",Encontrado
+PAULA REGIA FALCONI GONCALVES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+PAULO CESAR DA SILVA MARTINS,"Empresa: PAULO CESAR DA SILVA MARTINS, CNPJ: 29.662.353/0001-39, CNAE: 4399-1/03",Encontrado
+PAULO HENRIQUE MENEGASSI,"Empresa: PAULO HENRIQUE MENEGASSI, CNPJ: 31.542.553/0001-08, CNAE: 8599-6/04",Encontrado
+PAULO RICARDO PEREIRA DA SILVA,"Empresa: PAULO RICARDO PEREIRA DA SILVA, CNPJ: 42.659.019/0001-94, CNAE: 8599-6/03",Encontrado
+PEDRO BUENO DE MORAIS JUNIOR,Erro na busca,Erro
+PEDRO GABRIEL MARTINS DO NASCIMENTO SOARES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+PEDRO VINICIUS BORGES SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+PEDRO XAVIER AFONSO,"Empresa: 58.595.847 PEDRO XAVIER AFONSO, CNPJ: 58.595.847/0001-46, CNAE: 5912-0/99",Encontrado
+PIOVANA MARIA BARROSO ROMAO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+POLIANA ALVES DOS ANJOS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+PRISCILA DE SOUZA OLIVEIRA,"Empresa: PRISCILA DE SOUZA OLIVEIRA BERALDO, CNPJ: 25.251.732/0001-85, CNAE: 6209-1/00",Encontrado
+QUEREM HAPUQUE FERREIRA CLARO DE BARROS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+RAFAEL SANCHES,"Empresa: RAFAEL SANCHES MEDEIROS, CNPJ: 22.095.637/0001-41, CNAE: 4924-8/00",Encontrado
+RAFAEL SOARES ALVES,"Empresa: 53.203.566 RAFAEL SOARES ALVES, CNPJ: 53.203.566/0001-87, CNAE: 2542-0/00",Encontrado
+RAFAEL TADEO SILVA OLIVEIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+RAFAEL VIEIRA ALVES,"Empresa: RAFAEL VIEIRA ALVES, CNPJ: 11.409.928/0001-40, CNAE: 4399-1/03",Encontrado
+RAFAELA AKEMI LEITE NAGAI,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+RAFAELA CRISTINA RODRIGUES MATTOZO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+RAFAELA DE SOUZA BASTO,"Empresa: 53.687.763 RAFAELA DE SOUZA BASTO, CNPJ: 53.687.763/0001-19, CNAE: 4723-7/00",Encontrado
+RAFAELA ELOIZA BOLLIS DUTRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+RAFAELA MELO DOS SANTOS,"Empresa: RAFAELA MELO DOS SANTOS, CNPJ: 55.915.857/0001-23, CNAE: 4712-1/00",Encontrado
+RAFAELA MORAES PIRES PAGANOTTI,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+RAFAELE ALMEIDA SILVA NOBRE,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+RAISSA DOS SANTOS ALVES,"Empresa: 59.443.935 RAISSA DOS SANTOS ALVES, CNPJ: 59.443.935/0001-95, CNAE: 9602-5/01",Encontrado
+RAISSA VITORIA DOS SANTOS FLORENTINO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+RAQUEL CAETANO DE ALMEIDA,"Empresa: 61.679.987 RAQUEL CAETANO DE ALMEIDA SOUZA, CNPJ: 61.679.987/0001-07, CNAE: 5320-2/01",Encontrado
+RAQUEL CRISTINA CORDEIRO DE FREITAS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+RAQUEL CRISTINA MOREIRA,"Empresa: 52.005.810 RAQUEL CRISTINA MOREIRA, CNPJ: 52.005.810/0001-34, CNAE: 7319-0/02",Encontrado
+RAQUEL DALILA GONCALVES DA CUNHA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+RAUL DOS SANTOS MACHADO,"Empresa: RAUL DOS SANTOS MACHADO, CNPJ: 41.330.254/0001-55, CNAE: 7490-1/03",Encontrado
+RAUL VITOR RODRIGUES ANDRADE ANSELMO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+RAYANA AMARAL DE OLIVEIRA,"Empresa: 53.680.147 RAYANA AMARAL DE OLIVEIRA, CNPJ: 53.680.147/0001-36, CNAE: 5611-2/03",Encontrado
+RAYANE GRAZIELLY DE ARAUJO SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+RAYANNE HELEN FERREIRA DE OLIVEIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+RAYARA CRISTINA FERRAZ COLHADO,"Empresa: RAYARA CRISTINA FERRAZ COLHADO, CNPJ: 35.515.085/0001-25, CNAE: 5620-1/01",Encontrado
+RAYNARA VITORIA TEIXEIRA SANTANA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+RAYSSA NUNES MOREIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+REGINA CELIA DA CRUZ,"Empresa: REGINA CELIA DA CRUZ RODRIGUES, CNPJ: 49.534.867/0001-16, CNAE: 4930-2/03",Encontrado
+RENAN GONCALVES DE ALMEIDA,"Empresa: 63.547.258 RENAN GONCALVES DE ALMEIDA, CNPJ: 63.547.258/0001-22, CNAE: 4757-1/00",Encontrado
+RENATA APARECIDA DOS SANTOS STEFANINI,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+RENATA CRISTINA MORAES,"Empresa: 54.939.054 RENATA CRISTINA MORAES, CNPJ: 54.939.054/0001-46, CNAE: 5611-2/05",Encontrado
+RENATA LEITE CAMPOS,"Empresa: 42.080.679 RENATA LEITE CAMPOS SOARES, CNPJ: 42.080.679/0001-16, CNAE: 8599-6/99",Encontrado
+RENATA SAVARY,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+RENATO GONCALVES DA SILVA,"Empresa: RENATO GONCALVES DA SILVA, CNPJ: 41.626.397/0001-09, CNAE: 7319-0/02",Encontrado
+RITA DE CASSIA RAVAGNANI,"Empresa: RITA DE CASSIA RAVAGNANI BISSON, CNPJ: 23.112.880/0001-93, CNAE: 0113-0/00",Encontrado
+ROBERSON CONSTANTINO DA SILVA JUNIOR,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ROBINSON LEITE HOLTZ,"Empresa: 63.052.316 ROBINSON LEITE HOLTZ, CNPJ: 63.052.316/0001-47, CNAE: 8291-1/00",Encontrado
+RODRIGO GOBETI TERRENGUI,Erro na busca,Erro
+RODRIGO GOMES FERREIRA,"Empresa: 44.653.513 RODRIGO GOMES FERREIRA, CNPJ: 44.653.513/0001-77, CNAE: 7319-0/02",Encontrado
+RODRIGO JOSE SOARES DA SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+RONIERE PEREIRA DOS SANTOS,"Empresa: RONIERE PEREIRA DOS SANTOS, CNPJ: 33.468.744/0001-94, CNAE: 5611-2/03",Encontrado
+ROSANA APARECIDA CANDIDO OLIVEIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ROSANA MARTINS DOS SANTOS,"Empresa: ROSANA MARTINS DOS SANTOS, CNPJ: 51.899.008/0001-72, CNAE: 7490-1/04",Encontrado
+ROSANE GOMES FURTADO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ROSANGELA ARAGAO DE PAULA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ROSEMERE LOUGON HENRIQUE,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ROSIANE BATISTA DUARTE,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+ROSIMARY APARECIDA OLIVEIRA CABRAL,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+RUAN YEGROS DE CARVALHO,"Empresa: 62.786.310 RUAN YEGROS DE CARVALHO, CNPJ: 62.786.310/0001-30, CNAE: 8219-9/99",Encontrado
+SABRINA APARECIDA CORDEIRO DA SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+SAMARA BONADIMAN,"Empresa: SAMARA BONADIMAN, CNPJ: 41.223.886/0001-10, CNAE: 4782-2/01",Encontrado
+SAMARA DE PAULA,"Empresa: 55.443.932 SAMARA DE PAULA, CNPJ: 55.443.932/0001-09, CNAE: 7319-0/02",Encontrado
+SAMILES NEVES LEITE,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+SAMIRA BORGES DO CARMO MACEDO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+SAMUEL ALVES BARBOSA,"Empresa: 51.102.314 SAMUEL ALVES BARBOSA, CNPJ: 51.102.314/0001-36, CNAE: 9602-5/02",Encontrado
+SAMUEL ANTUNES MACHADO,"Empresa: 58.067.952 SAMUEL ANTUNES MACHADO, CNPJ: 58.067.952/0001-02, CNAE: 4752-1/00",Encontrado
+SAMUEL RODRIGUES XAVIER,"Empresa: 59.184.668 SAMUEL RODRIGUES XAVIER, CNPJ: 59.184.668/0001-89, CNAE: 9602-5/01",Encontrado
+SAMUEL VENICIO AMARAL DOMICIANO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+SANDRA SOARES,"Empresa: SANDRA SOARES, CNPJ: 26.905.428/0001-77, CNAE: 0111-3/02",Encontrado
+SARA DOS SANTOS DA SILVEIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+SARA VICTORIA BRITO SANTANA,"Empresa: SARA VICTORIA BRITO SANTANA, CNPJ: 27.848.600/0001-60, CNAE: 9602-5/01",Encontrado
+SARAH DA SILVA CASSANGE,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+SARAH FERNADES SIEPLIN,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+SARAH FERNANDES BARRETO,"Empresa: SARAH FERNANDES BARRETO, CNPJ: 47.117.929/0001-69, CNAE: 4713-0/02",Encontrado
+SELIVANE DE OLIVEIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+SHEYLA FERNANDA MADIA GUARINAO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+SIDICLEY ANTONIO LIMA,"Empresa: SIDICLEY ANTONIO LIMA, CNPJ: 17.773.434/0001-27, CNAE: 4930-2/02",Encontrado
+SILVANA ARAUJO CAMPOS DA SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+SILVANA RENATA SANTANA MATOS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+SOFIA DAMASCENO,"Empresa: 54.908.432 DAFNE SOFIA DAMASCENO FERREIRA, CNPJ: 54.908.432/0001-24, CNAE: 9602-5/02",Encontrado
+SOPHIA DIORIO LEVY,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+SOPHIA KRAMBECK,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+STEFANI RIBEIRO AMORIM,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+STEFANIA CORREIA PEREIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+STEFHANY GABRIELLY PEREIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+STEPHANIE ALINE FERREIRA ARQUETE,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+STEPHANY PEREIRA RIBEIRO,"Empresa: STEPHANY PEREIRA RIBEIRO, CNPJ: 39.634.123/0001-10, CNAE: 7319-0/02",Encontrado
+STEPHANY RODRIGUES FACIN,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+STHEFANIE BEATRIZ BARROS DE SOUSA,"Empresa: 60.087.797 STHEFANIE BEATRIZ BARROS DE SOUSA, CNPJ: 60.087.797/0001-38, CNAE: 5912-0/99",Encontrado
+STHEFANY ALVES CIRILO DE LIMA,"Empresa: STHEFANY ALVES CIRILO DE LIMA, CNPJ: 43.599.148/0001-05, CNAE: 4781-4/00",Encontrado
+STIFANY GABRIELLY GOMES RODRIGUES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+SUELEN CASSIMIRO DA SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+SUELENN CRISTINA LEMOS DE ALMEIDA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+SUELLEN FRANCISCA SOARES BRUNO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+SUYANE DOS SANTOS TEIXEIRA DE CARVALHO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+TACILA DE LIMA GUIMARAES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+TAIANE SANTOS DA SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+TAILA CRISTINA IGNACIO PANZA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+TAILANE DOS SANTOS,"Empresa: 54.160.121 TAILANE DOS SANTOS, CNPJ: 54.160.121/0001-20, CNAE: 5620-1/04",Encontrado
+TAINA CRISTINA BORGES DE JESUS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+TAINA CRISTINA DO NASCIMENTO,"Empresa: 50.360.776 TAINA CRISTINA DO NASCIMENTO, CNPJ: 50.360.776/0001-90, CNAE: 8219-9/99",Encontrado
+TAINA MARQUES ANDRADE,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+TAINARA SOUZA GALVAO,"Empresa: TAINARA SOUZA GALVAO, CNPJ: 34.698.707/0001-35, CNAE: 8219-9/99",Encontrado
+TAIS SOARES DE OLIVEIRA,"Empresa: TAIS SOARES DE OLIVEIRA, CNPJ: 45.435.027/0001-45, CNAE: 1412-6/01",Encontrado
+TALITA DOMINGUES GONCALVES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+TALITHA SILVA PEREIRA CAMPOS,"Empresa: 58.562.322 TALITHA SILVA PEREIRA CAMPOS, CNPJ: 58.562.322/0001-04, CNAE: 5320-2/01",Encontrado
+TALLIA CRISTINA FONTANIN,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+TAMIRES GABRIELE RODRIGUES SANTOS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+TAMIRIS CRISTINA PINHEIRO GONCALVES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+TAMIRIS GABRIELA NOVAIS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+TANIA RODRIGUES,"Empresa: TANIA RODRIGUES, CNPJ: 36.332.119/0001-09, CNAE: 5620-1/04",Encontrado
+TARSILA DE PAULA SOUZA E SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+TASSIANE RAMOS DE FREITAS FERRAZ,"Empresa: 59.685.455 TASSIANE RAMOS DE FREITAS FERRAZ, CNPJ: 59.685.455/0001-30, CNAE: 8219-9/99",Encontrado
+TATIANA GOMES DE SOUZA,"Empresa: TATIANA GOMES DE SOUZA, CNPJ: 46.043.213/0001-00, CNAE: 8230-0/02",Encontrado
+TATIANE ALVES FRANCISCO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+TAYNA APARECIDA FERNANDES DOS SANTOS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+TAYNARA RODRIGUES MACHADO,"Empresa: TAYNARA RODRIGUES MACHADO, CNPJ: 34.227.406/0001-23, CNAE: 7319-0/02",Encontrado
+THAINA ALEXIA DA SILVA ARAUJO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+THAINA CRISTINA ASSIS MARINHO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+THAINA ELEN ALMEIDA DA SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+THAINA RAFAELA RAYMUNDO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+THAINAH DOS SANTOS SOUZA,"Empresa: 57.081.418 THAINAH DOS SANTOS SOUZA, CNPJ: 57.081.418/0001-98, CNAE: 7319-0/02",Encontrado
+THAIS CAMILA DE SOUZA,"Empresa: THAIS CAMILA DE SOUZA LTDA, CNPJ: 55.750.865/0001-67, CNAE: 8211-3/00",Encontrado
+THAIS CRISTINA GOUVEIA,"Empresa: THAIS CRISTINA GOUVEIA, CNPJ: 41.632.957/0001-38, CNAE: 1412-6/01",Encontrado
+THAIS DA CRUZ SARGES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+THAIS DURO COUTO CALZA,"Empresa: 38.213.656 THAIS DURO COUTO CALZA, CNPJ: 38.213.656/0001-65, CNAE: 8219-9/99",Encontrado
+THAIS EMANUELLE TORRES CASCALES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+THAIS FERNANDA AMORIM SANTOS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+THAIS ISABELLI DOS SANTOS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+THAIS MACIEL DE SOUZA,"Empresa: THAIS MACIEL DE SOUZA, CNPJ: 25.970.172/0001-19, CNAE: 4781-4/00",Encontrado
+THAIS REGINA SILVA SOUZA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+THAIZA BIANCA LUZ DE OLIVEIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+THALIA SILVA DE OLIVEIRA,"Empresa: ELEICAO 2016 THALIA SILVA DE OLIVEIRA VEREADOR, CNPJ: 25.802.435/0001-80, CNAE: 9492-8/00",Encontrado
+THALITA SOUSA DE FARIAS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+THAMIRES FERRAZ NOIN,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+THAOANE AZEVEDO NETO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+THAWANNY LETICIA GALVAO LIMA DOS SANTOS,"Empresa: ELEICAO 2024 THAWANNY LETICIA GALVAO LIMA DOS SANTOS VEREADOR, CNPJ: 57.002.265/0001-46, CNAE: 9492-8/00",Encontrado
+THAYANE DA SILVA SIQUEIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+THAYLA DOS SANTOS RAMALHO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+THAYLANE COSTEMANI TRINDADE VALLE,"Empresa: 52.333.917 THAYLANE COSTEMANI TRINDADE VALLE, CNPJ: 52.333.917/0001-01, CNAE: 9602-5/02",Encontrado
+THAYNARA DE CARVALHO DE OLIVEIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+THAYNARA DOS SANTOS FRANCA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+THAYS VELOSO GIRAO DE MACEDO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+THEREZA CRISTINA ALVES DOS SANTOS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+THIAGO CAVALHEIRO VIOTO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+THIAGO CESAR DE OLIVEIRA,"Empresa: THIAGO CESAR DE OLIVEIRA, CNPJ: 20.529.151/0001-49, CNAE: 0151-2/02",Encontrado
+THIAGO RODRIGO SANTOS SILVA,"Empresa: 62.441.102 THIAGO RODRIGO SANTOS SILVA, CNPJ: 62.441.102/0001-08, CNAE: 8219-9/99",Encontrado
+TIAGO DA SILVA GARCIA,"Empresa: 62.444.440 TIAGO DA SILVA GARCIA, CNPJ: 62.444.440/0001-95, CNAE: 8219-9/99",Encontrado
+TIAGO FERNANDES DIONIZIO SOARES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+TOMAS WILLIAM DE MOURA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+TUANE LIMA DOS SANTOS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+TUANY APARECIDA DA SILVA,"Empresa: 54.394.190 TUANY APARECIDA DA SILVA, CNPJ: 54.394.190/0001-06, CNAE: 5819-1/00",Encontrado
+UALTER CORDEIRO DA SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+VAGNER PEREIRA DE AGUIAR,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+VALERIA DA SILVA ARAUJO,"Empresa: 46.211.601 VALERIA DA SILVA ARAUJO, CNPJ: 46.211.601/0001-44, CNAE: 4924-8/00",Encontrado
+VANESSA AMANDA DE OLIVEIRA CARDOSO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+VANESSA CHAMBERLAIN DE ASSIS FREITAS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+VANESSA CRISTINA VIEIRA,"Empresa: VANESSA CRISTINA VIEIRA LIMITADA, CNPJ: 17.435.036/0001-09, CNAE: 7911-2/00",Encontrado
+VANESSA MACENA LINO PEREIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+VANESSA REGINA BACCARIN FABRI,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+VANESSA SANTOS SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+VERA CAMILA PEREIRA DE BRITO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+VEREDIANE DA MATA GEORGETTI CRUZ,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+VERONICA PEREIRA DA SILVA DO BONFIM,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+VICTOR ALISON FERREIRA GAIO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+VICTOR AUGUSTO DE MELO,"Empresa: 58.637.563 VICTOR AUGUSTO DE MELO BERTOLANI, CNPJ: 58.637.563/0001-75, CNAE: 8599-6/99",Encontrado
+VICTOR DANIEL DOS SANTOS DA COSTA CRUZ,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+VICTOR MANOEL NERIS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+VICTOR NATHAN SURREICAO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+VICTORIA BEZERRA DE MENEZES GUIMARO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+VICTORIA HELOISA CAETANO PEREIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+VICTORIA MENEGUINI DONEGA,"Empresa: VICTORIA MENEGUINI DONEGA, CNPJ: 34.058.361/0001-00, CNAE: 4781-4/00",Encontrado
+VINICIUS DE ALMEIDA HOGERA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+VINICIUS SILVA OLIVEIRA,"Empresa: 49.314.452 VINICIUS SILVA OLIVEIRA, CNPJ: 49.314.452/0001-37, CNAE: 4752-1/00",Encontrado
+VIRGINIA VITORIA SANTOS DA SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+VITOR AUGUSTO FERREIRA DUTRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+VITOR AUGUSTO SILVA CANDIDO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+VITOR SOUTO SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+VITORIA AUGUSTO RANGEL,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+VITORIA BEATRIZ DA SILVA NOGUEIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+VITORIA CANDIDO MENDES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+VITORIA CAROLINE ALVES,"Empresa: 52.664.870 VITORIA CAROLINE ALVES, CNPJ: 52.664.870/0001-69, CNAE: 9602-5/01",Encontrado
+VITORIA CRISTINA DOS SANTOS BRUN,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+VITORIA DA SILVA NOGUEIRA,"Empresa: 63.265.570 IZABELLE VITORIA DA SILVA NOGUEIRA, CNPJ: 63.265.570/0001-23, CNAE: 4789-0/04",Encontrado
+VITORIA DE JESUS DEMARQUE,"Empresa: 62.929.037 VITORIA DE JESUS DEMARQUE MAZONETO, CNPJ: 62.929.037/0001-56, CNAE: 5612-1/00",Encontrado
+VITORIA DE JESUS SANTOS QUEIROZ,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+VITORIA DE OLIVEIRA SANTANA,"Empresa: VITORIA DE OLIVEIRA SANTANA, CNPJ: 37.200.774/0001-76, CNAE: 8712-3/00",Encontrado
+VITORIA FIGUEIREDO MESQUITA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+VITORIA GABRIELA OLIVEIRA PEREIRA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+VITORIA GABRIELLI DOS SANTOS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+VITORIA MALAMAO CARLOS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+VITORIA NERY DE MELO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+VITORIA REGINA CARVALHO DA SILVA,"Empresa: VITORIA REGINA CARVALHO DA SILVA, CNPJ: 44.164.449/0001-60, CNAE: 5612-1/00",Encontrado
+VITORIA TORREZAN,"Empresa: 53.868.384 GABRIELA VITORIA TORREZAN DE SOUZA, CNPJ: 53.868.384/0001-25, CNAE: 4724-5/00",Encontrado
+VITORIA VENEGA GODOY,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+VIVIAN CRISTINA AMURIM DA SILVA DE OLIVEIRA,"Empresa: VIVIAN CRISTINA AMURIM DA SILVA DE OLIVEIRA, CNPJ: 41.477.008/0001-20, CNAE: 8599-6/04",Encontrado
+VIVIANE RIBEIRO SCHNEIDER,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+WAGNER JOSE LIMA DOS SANTOS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+WELINGTON BATISTA DA SILVA,"Empresa: 55.028.189 WELINGTON BATISTA DA SILVA, CNPJ: 55.028.189/0001-12, CNAE: 7319-0/02",Encontrado
+WELLERSON GIMENEZ CAMARGO,"Empresa: WELLERSON GIMENEZ CAMARGO, CNPJ: 28.023.959/0001-61, CNAE: 5620-1/04",Encontrado
+WILLIAM FERNANDO DA SILVA SANTOS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+WILLIAN HARTEMAN DE MOURA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+YAGO MACIEL CARDOSO,"Empresa: YAGO MACIEL CARDOSO, CNPJ: 40.052.069/0001-83, CNAE: 5320-2/02",Encontrado
+YARA DOS SANTOS VAZ,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+YASMIM TEIXEIRA DE FARIA RIBEIRO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+YASMIN ALVES DE LIMA DA CONCEICAO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+YASMIN ANTUNES BARRETO SOARES,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+YASMIN CORREA DOS SANTOS,"Empresa: 62.785.592 VITORIA YASMIN CORREA DOS SANTOS, CNPJ: 62.785.592/0001-51, CNAE: 4723-7/00",Encontrado
+YASMIN LARISSA DA SILVA,"Empresa: 54.558.590 YASMIN LARISSA DA SILVA, CNPJ: 54.558.590/0001-00, CNAE: 4761-0/03",Encontrado
+YASMIN NATALIA NUNES DA SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+YASMIN VITORIA ARAUJO SILVA,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+YOFRANNYS DESIREE MAESTRE MUNOZ,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+YSE GABRIELE GOBETTI FIDELIS,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado
+YURI GABRIEL DOS ANJOS SANTICCHIO,"Empresa: Nao encontrado, CNPJ: Nao encontrado, CNAE: Nao encontrado",Encontrado

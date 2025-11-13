@@ -34,6 +34,7 @@ async function buscarCNPJs() {
   let contador = 0;
 
   for (const nome of nomes) {
+    contador++;
     console.log(`Pesquisando: ${nome}`);
 
     let nomeEmpresa = "Nao encontrado";
@@ -58,7 +59,7 @@ async function buscarCNPJs() {
         { delay: 100 }
       );
 
-      await new Promise((resolve) => setTimeout(resolve, 5000));
+      await delay(4000);
 
       const sugestoesEmpresa = await page.$$eval(
         ' div[data-value="estabelecimentos"] div[role="group"] span.font-medium',
@@ -82,7 +83,7 @@ async function buscarCNPJs() {
           }
         }, sugestaoCorretaEmpresa);
 
-        await new Promise((resolve) => setTimeout(resolve, 1500));
+        await delay(1700);
 
         nomeEmpresa = await page.$eval("h3", (el) => el.innerText.trim());
 
@@ -138,6 +139,12 @@ async function buscarCNPJs() {
     } catch (err) {
       console.error(`Erro ao pesquisar ${nome}:`, err.message);
       resultados.push({ nome, resultado: "Erro na busca", status: "Erro" });
+    }
+
+    if (contador % 30 === 0) {
+      console.log("Recarregando página para limpar cache...");
+      await page.reload({ waitUntil: "domcontentloaded" });
+      await delay(5000);
     }
   }
 
